@@ -53,12 +53,26 @@ Hands-on labs and scripts demonstrating Linux, Windows, and cybersecurity skills
 
 - **TryHackMe Labs** – Fundamentals of Linux, Microsoft, and cybersecurity practice.  
   [GitHub Repo](https://github.com/guyleonchen/Portfolio)
+  
+---
 
-- **PowerShell / Python Scripts** – Tools and scripts for IT automation and security:  
-  - Windows EventLog: Failed RDP Logins → GeoData conversion  
-  - Active Directory Bulk User Creation  
-  - Package Delivery Pathfinding Algorithm  
-  [GitHub Repo](https://github.com/guyleonchen/Portfolio)
+# 🎨 3D Printing Designs
+
+This repository showcases my collection of **3D printing projects** created using **Blender, Autodesk Inventor, and Cura**.  
+Currently included: **Portal** and a **Functional Clock**, both documented in the PDF below.  
+
+- **🌀 Portal** – Artistic and decorative 3D print  
+- **⏰ Functional Clock** – A working 3D-printed clock design  
+
+📄 [View the Designs (PDF)](https://github.com/guyleonchen/3D-Printing-Designs/blob/main/3d%20Printing%20Designs.pdf)
+
+---
+
+## ⚙️ Tools & Workflow
+- **Blender** → Creative 3D modeling and sculpting  
+- **Autodesk Inventor** → Precise CAD design for functional parts  
+- **Cura** → Preparing, slicing, and optimizing for 3D printing  
+
 
 <details>
 <summary>View All Lab Details</summary>
