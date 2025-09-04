@@ -1,54 +1,50 @@
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+# Hi, I’m Guy Cheneval! 👋
 
-<h2>👨‍💻 Software Development Projects:</h2>
+Resourceful and analytical professional with a strong foundation in cybersecurity, IT, and manufacturing technologies. Experienced in troubleshooting complex machinery, diagnosing technical issues, and implementing practical solutions under tight deadlines. Certified in Google Cybersecurity, CompTIA Security+, and trained through Cisco’s Junior Cybersecurity Analyst Pathway. Skilled in CAD design, 3D printing, and technical problem-solving, with a proven ability to apply analytical thinking to both industrial and digital environments. Demonstrates initiative, adaptability, and a continuous learning mindset, complemented by strong teamwork and community engagement through volunteer work.
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+---
 
-<h2>📺 Popular YouTube Videos</h2>
+## 📍 Details
+- **Location:** Sydney, Australia  
+- **Phone:** 0498263880  
+- **Email:** guyleonchen@gmail.com  
+- **LinkedIn:** [Guy Cheneval](https://www.linkedin.com/in/guyleonchen/)  
+- **GitHub Portfolio:** [guyleonchen](https://github.com/guyleonchen)  
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+---
 
-<h2> 🤳 Connect with me:</h2>
+## 🛠️ Skills
+- Problem-Solving, Analytical Thinking, Technical Troubleshooting, Attention to Detail, Initiative, Collaboration
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+---
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+## 🎓 Education, Training & Certifications
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Cybersecurity & IT
+- Google Cybersecurity Professional Certificate – Completed 31 Dec 2024  
+- CompTIA Security+ (SY0-701) – Earned 21 Jul 2025  
+- Cisco Junior Cybersecurity Analyst Career Path – Completed 04 Aug 2025  
+- TryHackMe: Fundamentals of Microsoft Word (1–3) – Completed  
+- TryHackMe: Fundamentals of Linux (1–3) – Completed  
 
-Here are some ideas to get you started:
+### Manufacturing & Engineering
+- Statement in CNC Machining  
+- Certificate III in Manufacturing Technology (CNC Machining, CAD)  
+- MEM16008 – Interact with Computing Technology  
+- MEM30027 – Prepare Basic Programmable Logic Controllers  
+- MEM09204 – Produce Basic Engineering Detail Drawings  
+- MEM09002 – Interpret Technical Drawings  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Technical Problem-Solving & Support
+- Machinery Troubleshooting & Diagnostics – Diagnosed complex machinery issues, including CNC machines not receiving files, network outages, and successful USB workarounds.  
+- Electrical & Production Problem-Solving – Sourced a 3-phase-compatible petrol generator to run two CNC lathes during warehouse electrical shutdowns, maintaining production timelines.  
+- Printer & Email Support – Recognized as go-to person for printer and email issues.  
+- Analytical Thinking – Applied systematic approaches to identify root causes and implement solutions across machinery, network, and workflow problems.  
+
+---
+
+## 🎯 Hobbies & Interests
+- Bodyboarding, Cooking, Golf, Gaming, TV Shows, Hanging out with friends and family  
+
