@@ -64,7 +64,7 @@ Currently included: **Portal** and a **Functional Clock**, both documented in th
 - **🌀 Portal** – Artistic and decorative 3D print  
 - **⏰ Functional Clock** – A working 3D-printed clock design  
 
-📄 [View the Designs (PDF)](https://github.com/guyleonchen/3D-Printing-Designs/blob/main/3d%20Printing%20Designs.pdf)
+📄 [View the Designs 3d Printing Designs.pdf (https://github.com/guyleonchen/3d-Printing/blob/151a4e187cdf214e5c4b44931c0b0b0f7f882bb4/3d%20Printing%20Designs.pdf)
 
 ---
 
