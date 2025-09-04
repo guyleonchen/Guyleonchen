@@ -78,17 +78,7 @@ Showcasing CAD designs, 3D models, and construction drawings.
 - **Snowboarding Drop-In Ramp** – Autodesk CAD design with full construction drawings.  
   [View / Download PDF](https://github.com/guyleonchen/Cad-Designs/blob/main/Snowboard%20Ramp.pdf)
 
-- **CNC & Furniture Designs** – CAD drawings and 3D printable models.  
-  ![Furniture Preview](https://via.placeholder.com/400x200.png?text=CNC+Furniture+Preview)  
-  [GitHub Repo](https://github.com/guyleonchen/Portfolio)
 
-<details>
-<summary>View All CAD Designs</summary>
-
-- Coffee Table (STEP / Screenshot)  
-- Shelf (STEP / Screenshot)  
-- Custom jigs for CNC operations  
-- Other 3D printable models  
 
 </details>
 
