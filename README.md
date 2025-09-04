@@ -58,8 +58,7 @@ Hands-on labs and scripts demonstrating Linux, Windows, and cybersecurity skills
 
 # 🎨 3D Printing Designs
 
-This repository showcases my collection of **3D printing projects** created using **Blender, Autodesk Inventor, and Cura**.  
-Currently included: **Portal** and a **Functional Clock**, both documented in the PDF below.  
+This repository showcases my collection of 3D printing projects created using Blender, Autodesk Inventor, and Cura. I pursue these projects as a hobby, exploring creativity and practical design. Currently included: Portal and a Functional Clock, both documented in the PDF below.
 
 - **🌀 Portal** – Artistic and decorative 3D print  
 - **⏰ Functional Clock** – A working 3D-printed clock design  
@@ -78,9 +77,9 @@ Currently included: **Portal** and a **Functional Clock**, both documented in th
 ---
 
 ### 🛠 CAD & Engineering Designs
-Showcasing CAD designs, 3D models, and construction drawings.
+Showcasing a mix of personal CAD projects and real-world builds, I worked with construction drawings and 3D models to plan and oversee CNC production, ensuring accuracy and quality throughout each project.
 
-- 🏂 **Snowboarding Drop-In Ramp** – Autodesk CAD design with full construction drawings.  
+- 🏂 **Layher Scaffold Snowboarding Ramp** – Autodesk CAD design with full construction drawings.  
   [View / Download PDF](https://github.com/guyleonchen/Cad-Designs/blob/main/Snowboard%20Ramp.pdf)
 
 - 🎁 **Truss Cube Christmass-Present** – Autodesk CAD design with 3D Texturing done in Maya.  
