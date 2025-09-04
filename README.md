@@ -69,22 +69,13 @@ Currently included: **Portal** and a **Functional Clock**, both documented in th
 ---
 
 ## ⚙️ Tools & Workflow
-- **Blender** → Creative 3D modeling and sculpting  
-- **Autodesk Inventor** → Precise CAD design for functional parts  
-- **Cura** → Preparing, slicing, and optimizing for 3D printing  
-
-
-<details>
-<summary>View All Lab Details</summary>
-
-- Linux Fundamentals 1-3  
-- Microsoft Fundamentals 1-3  
-- Additional practice scripts demonstrating security and IT automation  
-
-</details>
+- **Blender** → Creative 3D modeling and sculpting.
+- **Autodesk** → Precise CAD design for functional parts.  
+- **Cura** → Preparing, slicing, and optimizing for 3D printing. 
+- **Maya** → 3D Texturing done in Maya.
+- **Inventor** → 3D CAD modeling, assemblies, and mechanical simulations.
 
 ---
-
 
 ### 🛠 CAD & Engineering Designs
 Showcasing CAD designs, 3D models, and construction drawings.
