@@ -64,7 +64,7 @@ Currently included: **Portal** and a **Functional Clock**, both documented in th
 - **🌀 Portal** – Artistic and decorative 3D print  
 - **⏰ Functional Clock** – A working 3D-printed clock design  
 
-  [View the designs PDF](https://github.com/guyleonchen/3d-Printing/blob/main/3d%20Printing%20Designs.pdf)
+  [View / Dowload PDF](https://github.com/guyleonchen/3d-Printing/blob/main/3d%20Printing%20Designs.pdf)
 
 ---
 
@@ -89,8 +89,11 @@ Currently included: **Portal** and a **Functional Clock**, both documented in th
 ### 🛠 CAD & Engineering Designs
 Showcasing CAD designs, 3D models, and construction drawings.
 
-- **Snowboarding Drop-In Ramp** – Autodesk CAD design with full construction drawings.  
+- 🏂 **Snowboarding Drop-In Ramp** – Autodesk CAD design with full construction drawings.  
   [View / Download PDF](https://github.com/guyleonchen/Cad-Designs/blob/main/Snowboard%20Ramp.pdf)
+
+- 🎁 **Truss Cube Christmass-Present** – Autodesk CAD design with 3D Texturing done in Maya.  
+  [View / Download PDF](https://raw.githubusercontent.com/guyleonchen/Truss-Cube-Christmas-Present-Structure/9b14cccbcae82be2eefcf5092fd9b913f9fa6250/Present.pdf)
 
 
 
