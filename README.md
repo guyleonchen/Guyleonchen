@@ -1,6 +1,6 @@
 # Hi, I’m Guy Cheneval! 👋
 
-Resourceful and analytical professional with a strong foundation in cybersecurity, IT, and manufacturing technologies. Experienced in troubleshooting complex machinery, diagnosing technical issues, and implementing practical solutions under tight deadlines. Certified in Google Cybersecurity, CompTIA Security+, and trained through Cisco’s Junior Cybersecurity Analyst Pathway. Skilled in CAD design, 3D printing, and technical problem-solving, with a proven ability to apply analytical thinking to both industrial and digital environments. Demonstrates initiative, adaptability, and a continuous learning mindset, complemented by strong teamwork and community engagement through volunteer work.
+Resourceful and analytical professional with a strong foundation in cybersecurity, IT, and manufacturing technologies. Experienced in troubleshooting complex machinery, diagnosing technical issues, and implementing practical solutions under tight deadlines. Certified in Google Cybersecurity, CompTIA Security+, and trained through Cisco’s Junior Cybersecurity Analyst Pathway. Skilled in CAD design, 3D printing, and technical problem-solving, with a proven ability to apply analytical thinking to both industrial and digital environments. Demonstrates initiative, adaptability, and a continuous learning mindset, complemented by strong teamwork and collaboration.
 
 ---
 
@@ -10,6 +10,7 @@ Resourceful and analytical professional with a strong foundation in cybersecurit
 - **Email:** guyleonchen@gmail.com  
 - **LinkedIn:** [Guy Cheneval](https://www.linkedin.com/in/guyleonchen/)  
 - **GitHub Portfolio:** [guyleonchen](https://github.com/guyleonchen)  
+- **Full Portfolio:** [Explore My Work](https://github.com/guyleonchen/Portfolio)
 
 ---
 
@@ -45,6 +46,56 @@ Resourceful and analytical professional with a strong foundation in cybersecurit
 
 ---
 
+## 💻 Projects
+
+###  Cybersecurity & IT Labs
+Hands-on labs and scripts demonstrating Linux, Windows, and cybersecurity skills.
+
+- **TryHackMe Labs** – Fundamentals of Linux, Microsoft, and cybersecurity practice.  
+  [GitHub Repo](https://github.com/guyleonchen/Portfolio)
+
+- **PowerShell / Python Scripts** – Tools and scripts for IT automation and security:  
+  - Windows EventLog: Failed RDP Logins → GeoData conversion  
+  - Active Directory Bulk User Creation  
+  - Package Delivery Pathfinding Algorithm  
+  [GitHub Repo](https://github.com/guyleonchen/Portfolio)
+
+<details>
+<summary>View All Lab Details</summary>
+
+- Linux Fundamentals 1-3  
+- Microsoft Fundamentals 1-3  
+- Additional practice scripts demonstrating security and IT automation  
+
+</details>
+
+---
+
+### 🛠 CAD & Engineering Designs
+Showcasing CAD designs, 3D models, and construction drawings.
+
+- **Snowboarding Drop-In Ramp** – Autodesk CAD design with full construction drawings in PDF.  
+  ![Snowboard Ramp Preview](https://via.placeholder.com/400x200.png?text=Snowboard+Ramp+Preview)  
+  [View / Download PDF](https://github.com/guyleonchen/Portfolio/blob/main/CAD_Designs/SnowboardRamp/SnowboardRamp.pdf)
+
+- **CNC & Furniture Designs** – CAD drawings and 3D printable models.  
+  ![Furniture Preview](https://via.placeholder.com/400x200.png?text=CNC+Furniture+Preview)  
+  [GitHub Repo](https://github.com/guyleonchen/Portfolio)
+
+<details>
+<summary>View All CAD Designs</summary>
+
+- Coffee Table (STEP / Screenshot)  
+- Shelf (STEP / Screenshot)  
+- Custom jigs for CNC operations  
+- Other 3D printable models  
+
+</details>
+
+---
+
 ## 🎯 Hobbies & Interests
 - Bodyboarding, Cooking, Golf, Gaming, TV Shows, Hanging out with friends and family  
+
+
 
