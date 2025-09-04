@@ -71,12 +71,12 @@ Hands-on labs and scripts demonstrating Linux, Windows, and cybersecurity skills
 
 ---
 
+
 ### 🛠 CAD & Engineering Designs
 Showcasing CAD designs, 3D models, and construction drawings.
 
-- **Snowboarding Drop-In Ramp** – Autodesk CAD design with full construction drawings in PDF.  
-  ![Snowboard Ramp Preview](https://via.placeholder.com/400x200.png?text=Snowboard+Ramp+Preview)  
-  [View / Download PDF](https://github.com/guyleonchen/Portfolio/blob/main/CAD_Designs/SnowboardRamp/SnowboardRamp.pdf)
+- **Snowboarding Drop-In Ramp** – Autodesk CAD design with full construction drawings.  
+  [View / Download PDF](https://github.com/guyleonchen/Cad-Designs/blob/main/Snowboard%20Ramp.pdf)
 
 - **CNC & Furniture Designs** – CAD drawings and 3D printable models.  
   ![Furniture Preview](https://via.placeholder.com/400x200.png?text=CNC+Furniture+Preview)  
