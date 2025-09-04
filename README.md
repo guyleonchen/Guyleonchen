@@ -93,7 +93,7 @@ Showcasing CAD designs, 3D models, and construction drawings.
   [View / Download PDF](https://github.com/guyleonchen/Cad-Designs/blob/main/Snowboard%20Ramp.pdf)
 
 - 🎁 **Truss Cube Christmass-Present** – Autodesk CAD design with 3D Texturing done in Maya.  
-  [View / Download PDF](https://raw.githubusercontent.com/guyleonchen/Truss-Cube-Christmas-Present-Structure/9b14cccbcae82be2eefcf5092fd9b913f9fa6250/Present.pdf)
+  [View / Download PDF](https://.githubusercontent.com/guyleonchen/Truss-Cube-Christmas-Present-Structure/9b14cccbcae82be2eefcf5092fd9b913f9fa6250/Present.pdf)
 
 
 
