@@ -67,7 +67,7 @@ This project shows my hands-on experience with TryHackMe's Windows Fundamentals 
 
 ### (2) AI Built Cybersecurity Game 
 🎮 Overview
-An AI-designed interactive game that educates users on email security best practices—including phishing detection, safe email handling, and secure communication strategies—through simulations, quizzes, and progress tracking, with a certification upon completion.
+An AI-designed game fed with my prompts to create a interactive game that educates users on email security best practices—including phishing detection, safe email handling, and secure communication strategies—through simulations, quizzes, and progress tracking, with a certification upon completion.
 
 - [Play the game here](https://emailsecurityawarenesscampaign.lovable.app/)
  
