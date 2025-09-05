@@ -1,4 +1,11 @@
-# Hi, I’m Guy Cheneval! 👋
+<p align="center">
+  <img src="https://github.com/guyleonchen/Banner/blob/65cd43ceaf38bbb37a8e2a8d7fd417250af8d34e/YouTube%20Banner%20-%20Guy%20Cheneval%20(4).png?raw=true" width="1300"/>
+</p>
+
+
+
+
+# Hi, I’m Guy Cheneval! Welcome👋
 
 Resourceful and analytical professional with a strong foundation in cybersecurity, IT, and manufacturing technologies. Experienced in troubleshooting complex machinery, diagnosing technical issues, and implementing practical solutions under tight deadlines. Certified in Google Cybersecurity, CompTIA Security+, and trained through Cisco’s Junior Cybersecurity Analyst Pathway. Skilled in CAD design, 3D printing, and technical problem-solving, with a proven ability to apply analytical thinking to both industrial and digital environments. Demonstrates initiative, adaptability, and a continuous learning mindset, complemented by strong teamwork and collaboration.
 
@@ -12,11 +19,6 @@ Resourceful and analytical professional with a strong foundation in cybersecurit
 
 ---
 
-## 🛠️ Skills
-- Problem-Solving, Analytical Thinking, Technical Troubleshooting, Attention to Detail, Initiative, Collaboration
-
----
-
 ## 🎓 Education, Training & Certifications
 <p>
   <img src="https://raw.githubusercontent.com/guyleonchen/PNG-certs/f24a65171e076010443138707ef8019803eafc47/Google-Cybersecurity-Certificate.png" width="220" />
@@ -27,11 +29,11 @@ Resourceful and analytical professional with a strong foundation in cybersecurit
 
 ### Cybersecurity & IT
 - Google Cybersecurity Professional Certificate – Completed 31 Dec 2024  
-- CompTIA Security+ (SY0-701) – Earned 21 Jul 2025 ### CompTIA Security+  
-### CompTIA Security+  
+- CompTIA Security+ (SY0-701) – Completed 21 Jul 2025 
+ 
 - Cisco Junior Cybersecurity Analyst Career Path – Completed 04 Aug 2025  
-- TryHackMe: Fundamentals of Microsoft Word (1–3) – Completed  
-- TryHackMe: Fundamentals of Linux (1–3) – Completed  
+- TryHackMe: Fundamentals of Microsoft Word (1–3) – Completed 04 Sep 2025
+- TryHackMe: Fundamentals of Linux (1–3) – Completed  05 Serp 2025
 
 ### Manufacturing & Engineering
 - Statement in CNC Machining  
@@ -74,15 +76,6 @@ This repository showcases my collection of 3D printing projects created using Bl
 
 ---
 
-## ⚙️ Tools & Workflow
-- **Blender** → Creative 3D modeling and sculpting.
-- **Autodesk** → Precise CAD design for functional parts.  
-- **Cura** → Preparing, slicing, and optimizing for 3D printing. 
-- **Maya** → 3D Texturing done in Maya.
-- **Inventor** → 3D CAD modeling, assemblies, and mechanical simulations.
-
----
-
 ### 🛠 CAD & Engineering Designs
 Showcasing a mix of personal CAD projects and real-world builds, I worked with construction drawings and 3D models to plan and oversee CNC production, ensuring accuracy and quality throughout each project.
 
@@ -95,7 +88,15 @@ Showcasing a mix of personal CAD projects and real-world builds, I worked with c
 - 🛠 **Autodesk Inventor – Assembly Block** – A 3D assembly designed entirely in Autodesk Inventor, consisting of five custom-designed parts. The animation demonstrates how each part fits and interacts within the full assembly.
 
   🎥 [View the Assembly Block Animation](https://github.com/guyleonchen/Inventor-Assembly/blob/43901731e36dab0b33a99b21449115eb9686d6c0/Assembly%20Block.mp4) Download me to view.
-
+  
+ ---
+ 
+## ⚙️ Tools & Workflow
+- **Blender** → Creative 3D modeling and sculpting.
+- **Autodesk** → Precise CAD design for functional parts.  
+- **Cura** → Preparing, slicing, and optimizing for 3D printing. 
+- **Maya** → 3D Texturing done in Maya.
+- **Inventor** → 3D CAD modeling, assemblies, and mechanical simulations.
 
 
 
