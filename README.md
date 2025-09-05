@@ -65,17 +65,6 @@ View the full lab summary PDF here: [Windows Fundamentals 1 to 3 Labs Summary](h
 
 ---
 
-# 🎨 3D Printing Designs
-
-This repository showcases my collection of 3D printing projects created using Blender, Autodesk Inventor, and Cura. I pursue these projects as a hobby, exploring creativity and practical design. Currently included: Portal and a Functional Clock, both documented in the PDF below.
-
-- **🌀 Portal** – Artistic and decorative 3D print  
-- **⏰ Functional Clock** – A working 3D-printed clock design  
-
-  [View / Dowload PDF](https://github.com/guyleonchen/3d-Printing/blob/main/3d%20Printing%20Designs.pdf)
-
----
-
 ### 🛠 CAD & Engineering Designs
 Showcasing a mix of personal CAD projects and real-world builds, I worked with construction drawings and 3D models to plan and oversee CNC production, ensuring accuracy and quality throughout each project.
 
@@ -90,7 +79,18 @@ Showcasing a mix of personal CAD projects and real-world builds, I worked with c
   🎥 [View the Assembly Block Animation](https://github.com/guyleonchen/Inventor-Assembly/blob/43901731e36dab0b33a99b21449115eb9686d6c0/Assembly%20Block.mp4) Download me to view.
   
  ---
- 
+
+ # 🎨 3D Printing Designs
+
+This repository showcases my collection of 3D printing projects created using Blender, Autodesk Inventor, and Cura. I pursue these projects as a hobby, exploring creativity and practical design. Currently included: Portal and a Functional Clock, both documented in the PDF below.
+
+- **🌀 Portal** – Artistic and decorative 3D print  
+- **⏰ Functional Clock** – A working 3D-printed clock design  
+
+  [View / Dowload PDF](https://github.com/guyleonchen/3d-Printing/blob/main/3d%20Printing%20Designs.pdf)
+
+ ---
+  
 ## ⚙️ Tools & Workflow
 - **Blender** → Creative 3D modeling and sculpting.
 - **Autodesk** → Precise CAD design for functional parts.  
