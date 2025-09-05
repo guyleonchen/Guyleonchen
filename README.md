@@ -23,10 +23,6 @@ Resourceful and analytical professional with a strong foundation in cybersecurit
 - Google Cybersecurity Professional Certificate – Completed 31 Dec 2024  
 - CompTIA Security+ (SY0-701) – Earned 21 Jul 2025 ### CompTIA Security+  
 ### CompTIA Security+  
-
-<img src="https://github.com/yourusername/yourrepo/blob/main/images/CompTIA.png?raw=true" width="50"/> <img src="https://github.com/yourusername/yourrepo/blob/main/images/SecurityPlus.png?raw=true" width="50"/>
-
- 
 - Cisco Junior Cybersecurity Analyst Career Path – Completed 04 Aug 2025  
 - TryHackMe: Fundamentals of Microsoft Word (1–3) – Completed  
 - TryHackMe: Fundamentals of Linux (1–3) – Completed  
