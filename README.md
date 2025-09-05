@@ -55,22 +55,22 @@ Resourceful and analytical professional with a strong foundation in cybersecurit
 
 ## 💻 Projects
 
-### (1) Cybersecurity & IT Labs
+### Cybersecurity & IT Labs
 
-- **TryHackMe Labs** – Fundamentals of Linux, Microsoft, and cybersecurity practice.  
+- **TryHackMe Labs** - Fundamentals of Linux, Microsoft, and cybersecurity practice.  
 
-This project shows my hands-on experience with TryHackMe's Windows Fundamentals 1 to 3 courses. It includes documented proof of the labs I completed and the skills I learned in managing Windows environments.  
+This project shows my hands-on experience with TryHackMe's Windows Fundamentals 1 to 3 courses and Linux. It includes documented proof of the labs I completed and the skills I learned in managing Windows environments and Linux enviroments.
 
 - [Windows Fundamentals 1 to 3 Labs Summary](https://github.com/guyleonchen/Labs-Tryhackme/blob/ae59476a2888135abea17f4ae6fbd254a13c6da3/Windows%20Fundamentals%201%20to%203%20Labs%20Summary.pdf)
 
 - [Linux Fundamentals Labs 1 to 3 Labs Summary](https://github.com/guyleonchen/Linux-Fundamentals/blob/85715df743a41f86fd37461e11b551f2f2afab1a/linux%20Fundamentals%20Labs%20Summary%201%20to%203%20Labs%20Summary.pdf)
 
-### (2) AI Built Cybersecurity Game 
-🎮 Overview
-An AI-designed game fed with my prompts to create a interactive game that educates users on email security best practices—including phishing detection, safe email handling, and secure communication strategies—through simulations, quizzes, and progress tracking, with a certification upon completion.
+### AI Built Cybersecurity Game 
+
+- 🎮 **LoveableAI** - Using AI and my custom prompts, I created an interactive game that educates users on email security best practices—including phishing detection, safe email handling, and secure communication strategies—through simulations, quizzes, and progress tracking, with a certification upon completion.
 
 - [Play the game here](https://emailsecurityawarenesscampaign.lovable.app/)
--  [View / Download PDF](https://github.com/guyleonchen/AI-Portfolio/blob/b268259c3ab7f276e5de5d3303348a00a0d57ff2/Game%20Design%20With%20AI.pdf)
+- [View / Download PDF](https://github.com/guyleonchen/AI-Portfolio/blob/b268259c3ab7f276e5de5d3303348a00a0d57ff2/Game%20Design%20With%20AI.pdf)
  
 ---
 
