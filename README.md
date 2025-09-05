@@ -69,7 +69,7 @@ This project shows my hands-on experience with TryHackMe's Windows Fundamentals 
 # Cybersecurity Game
 An interactive cybersecurity-themed game built using [Lovable.dev](https://lovable.dev/projects/a4ea82b3-c92a-4f5e-a053-6dc54296880d).
 
-🎮 [Play the game here](https://lovable.dev/projects/a4ea82b3-c92a-4f5e-a053-6dc54296880d)
+🎮 [Play the game here](https://emailsecurityawarenesscampaign.lovable.app/)
 
 
 
