@@ -52,7 +52,7 @@ Resourceful and analytical professional with a strong foundation in cybersecurit
 
 This project shows my hands-on experience with TryHackMe's Windows Fundamentals 1 to 3 courses. It includes documented proof of the labs I completed and the skills I learned in managing Windows environments.  
 
-View the full lab summary PDF here: [Windows Fundamentals 1 to 3 Labs Summary](Windows%20Fundamentals%201%20to%203%20Labs%20Summary.pdf)
+View the full lab summary PDF here: [Windows Fundamentals 1 to 3 Labs Summary](https://github.com/guyleonchen/Labs-Tryhackme/blob/ae59476a2888135abea17f4ae6fbd254a13c6da3/Windows%20Fundamentals%201%20to%203%20Labs%20Summary.pdf)
 
 ---
 
