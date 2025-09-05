@@ -66,6 +66,13 @@ This project shows my hands-on experience with TryHackMe's Windows Fundamentals 
 - [Linux Fundamentals Labs 1 to 3 Labs Summary](https://github.com/guyleonchen/Linux-Fundamentals/blob/85715df743a41f86fd37461e11b551f2f2afab1a/linux%20Fundamentals%20Labs%20Summary%201%20to%203%20Labs%20Summary.pdf)
 
 
+# Cybersecurity Game
+An interactive cybersecurity-themed game built using [Lovable.dev](https://lovable.dev/projects/a4ea82b3-c92a-4f5e-a053-6dc54296880d).
+
+🎮 [Play the game here](https://lovable.dev/projects/a4ea82b3-c92a-4f5e-a053-6dc54296880d)
+
+
+
 
 ---
 
