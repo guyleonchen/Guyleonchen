@@ -47,11 +47,13 @@ Resourceful and analytical professional with a strong foundation in cybersecurit
 ## 💻 Projects
 
 ###  Cybersecurity & IT Labs
-Hands-on labs and scripts demonstrating Linux, Windows, and cybersecurity skills.
 
 - **TryHackMe Labs** – Fundamentals of Linux, Microsoft, and cybersecurity practice.  
-  [GitHub Repo](https://github.com/guyleonchen/Portfolio)
-  
+
+This project shows my hands-on experience with TryHackMe's Windows Fundamentals 1 to 3 courses. It includes documented proof of the labs I completed and the skills I learned in managing Windows environments.  
+
+View the full lab summary PDF here: [Windows Fundamentals 1 to 3 Labs Summary](Windows%20Fundamentals%201%20to%203%20Labs%20Summary.pdf)
+
 ---
 
 # 🎨 3D Printing Designs
