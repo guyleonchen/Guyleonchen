@@ -76,7 +76,7 @@ Showcasing a mix of personal CAD projects and real-world builds, I worked with c
 
 - 🛠 **Autodesk Inventor – Assembly Block** – A 3D assembly designed entirely in Autodesk Inventor, consisting of five custom-designed parts. The animation demonstrates how each part fits and interacts within the full assembly.
 
-  🎥 [View the Assembly Block Animation](https://github.com/guyleonchen/Inventor-Assembly/blob/43901731e36dab0b33a99b21449115eb9686d6c0/Assembly%20Block.mp4) Download me to view.
+ 🎥 [View the Assembly Block Animation](https://github.com/guyleonchen/Inventor-Assembly/blob/43901731e36dab0b33a99b21449115eb9686d6c0/Assembly%20Block.mp4) Download me to view.
   
  ---
 
