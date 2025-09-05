@@ -7,10 +7,8 @@ Resourceful and analytical professional with a strong foundation in cybersecurit
 ## 📍 Details
 - **Location:** Sydney, Australia  
 - **Phone:** 0498263880  
-- **Email:** guyleonchen@gmail.com  
+- **Email:** guyleonchen@gmail.com
 - **LinkedIn:** [Guy Cheneval](https://www.linkedin.com/in/guyleonchen/)  
-- **GitHub Portfolio:** [guyleonchen](https://github.com/guyleonchen)  
-- **Full Portfolio:** [Explore My Work](https://github.com/guyleonchen/Portfolio)
 
 ---
 
