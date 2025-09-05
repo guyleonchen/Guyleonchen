@@ -5,7 +5,7 @@
 
 
 
-# Hi, I’m Guy Cheneval! Welcome👋
+# Hi, I’m Guy Cheneval! Welcome.
 
 Resourceful and analytical professional with a strong foundation in cybersecurity, IT, and manufacturing technologies. Experienced in troubleshooting complex machinery, diagnosing technical issues, and implementing practical solutions under tight deadlines. Certified in Google Cybersecurity, CompTIA Security+, and trained through Cisco’s Junior Cybersecurity Analyst Pathway. Skilled in CAD design, 3D printing, and technical problem-solving, with a proven ability to apply analytical thinking to both industrial and digital environments. Demonstrates initiative, adaptability, and a continuous learning mindset, complemented by strong teamwork and collaboration.
 
