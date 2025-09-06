@@ -73,14 +73,14 @@ Resourceful and analytical professional with a strong foundation in cybersecurit
  
 ---
 
-### 🛠 CAD & Engineering Designs
-Showcasing a mix of personal CAD projects and real-world builds, I worked with construction drawings and 3D models to plan and oversee CNC production, ensuring accuracy and quality throughout each project.
+### CAD & Engineering Designs
+Showcases personal and real-world CAD projects, demonstrating precision, planning, and technical problem-solving.
 
 - **Layher Scaffold Snowboarding Ramp** – Autodesk CAD design with full construction drawings.  
-  [View / Download PDF](https://github.com/guyleonchen/Cad-Designs/blob/main/Snowboard%20Ramp.pdf)
+  [View PDF](https://github.com/guyleonchen/Cad-Designs/blob/main/Snowboard%20Ramp.pdf)
 
 -  **Truss Cube Christmass-Present** – Autodesk CAD design with 3D Texturing done in Maya.  
-  [View / Download PDF](https://github.com/guyleonchen/Truss-Cube-Christmas-Present-Structure/blob/9b14cccbcae82be2eefcf5092fd9b913f9fa6250/Present.pdf)
+  [View PDF](https://github.com/guyleonchen/Truss-Cube-Christmas-Present-Structure/blob/9b14cccbcae82be2eefcf5092fd9b913f9fa6250/Present.pdf)
 
 -  **Autodesk Inventor – Assembly Block** – A 3D assembly designed entirely in Autodesk Inventor, consisting of five custom-designed parts. The animation demonstrates how each part fits and interacts within the full assembly.
 
