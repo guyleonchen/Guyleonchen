@@ -11,7 +11,7 @@ Resourceful and analytical professional with a strong foundation in cybersecurit
 
 ---
 
-## 📍 Details
+##  Details
 - **Location:** Sydney, Australia  
 - **Phone:** 0498263880  
 - **Email:** guyleonchen@gmail.com
@@ -19,7 +19,7 @@ Resourceful and analytical professional with a strong foundation in cybersecurit
 
 ---
 
-## 🎓 Education, Training & Certifications
+## Education, Training & Certifications
 <p>
   <img src="https://raw.githubusercontent.com/guyleonchen/PNG-certs/f24a65171e076010443138707ef8019803eafc47/Google-Cybersecurity-Certificate.png" width="220" />
   <img src="https://raw.githubusercontent.com/guyleonchen/PNG-certs/407cb49396938b88b4d2843d93a57efa474d5dc4/cisco%20anyl%20path.png" width="220" />
@@ -47,7 +47,7 @@ Resourceful and analytical professional with a strong foundation in cybersecurit
 
 ---
 
-## 💻 Projects
+## Projects
 
 ### Cybersecurity & IT Labs
 
@@ -76,24 +76,24 @@ Resourceful and analytical professional with a strong foundation in cybersecurit
 ### 🛠 CAD & Engineering Designs
 Showcasing a mix of personal CAD projects and real-world builds, I worked with construction drawings and 3D models to plan and oversee CNC production, ensuring accuracy and quality throughout each project.
 
-- 🏂 **Layher Scaffold Snowboarding Ramp** – Autodesk CAD design with full construction drawings.  
+- **Layher Scaffold Snowboarding Ramp** – Autodesk CAD design with full construction drawings.  
   [View / Download PDF](https://github.com/guyleonchen/Cad-Designs/blob/main/Snowboard%20Ramp.pdf)
 
-- 🎁 **Truss Cube Christmass-Present** – Autodesk CAD design with 3D Texturing done in Maya.  
+-  **Truss Cube Christmass-Present** – Autodesk CAD design with 3D Texturing done in Maya.  
   [View / Download PDF](https://github.com/guyleonchen/Truss-Cube-Christmas-Present-Structure/blob/9b14cccbcae82be2eefcf5092fd9b913f9fa6250/Present.pdf)
 
-- 🛠 **Autodesk Inventor – Assembly Block** – A 3D assembly designed entirely in Autodesk Inventor, consisting of five custom-designed parts. The animation demonstrates how each part fits and interacts within the full assembly.
+-  **Autodesk Inventor – Assembly Block** – A 3D assembly designed entirely in Autodesk Inventor, consisting of five custom-designed parts. The animation demonstrates how each part fits and interacts within the full assembly.
 
- 🎥 [View the Assembly Block Animation](https://github.com/guyleonchen/Inventor-Assembly/blob/43901731e36dab0b33a99b21449115eb9686d6c0/Assembly%20Block.mp4) Download me to view.
+  [View the Assembly Block Animation](https://github.com/guyleonchen/Inventor-Assembly/blob/43901731e36dab0b33a99b21449115eb9686d6c0/Assembly%20Block.mp4) Download me to view.
   
  ---
 
- # 🎨 3D Printing Designs
+ ## 3D Printing Designs
 
 This repository showcases my collection of 3D printing projects created using Blender, Autodesk Inventor, and Cura. I pursue these projects as a hobby, exploring creativity and practical design. Currently included: Portal and a Functional Clock, both documented in the PDF below.
 
-- **🌀 Portal** – Artistic and decorative 3D print  
-- **⏰ Functional Clock** – A working 3D-printed clock design  
+- ** Portal** – Artistic and decorative 3D print  
+- ** Functional Clock** – A working 3D-printed clock design  
 
   [View / Dowload PDF](https://github.com/guyleonchen/3d-Printing/blob/main/3d%20Printing%20Designs.pdf)
 
