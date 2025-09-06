@@ -35,14 +35,8 @@ Resourceful and analytical professional with a strong foundation in cybersecurit
 - TryHackMe: Fundamentals of Microsoft Word (1–3) – Completed 04 Sep 2025
 - TryHackMe: Fundamentals of Linux (1–3) – Completed  05 Sep 2025
 
-### Manufacturing & Engineering
-- Statement in CNC Machining  
-- Certificate III in Manufacturing Technology (CNC Machining, CAD)  
-- MEM16008 – Interact with Computing Technology  
-- MEM30027 – Prepare Basic Programmable Logic Controllers  
-- MEM09204 – Produce Basic Engineering Detail Drawings  
-- MEM09002 – Interpret Technical Drawings  
-
+### Manufacturing & Engineering 
+- Certificate III in Manufacturing Technology, Statement in CNC Machining, MEM16008 – Interact with Computing Technology, MEM30027 – Prepare Basic Programmable Logic Controllers, MEM09204 – Produce Basic Engineering Detail Drawings, MEM09002 – Interpret Technical Drawings  
 ---
 
 ## 🔧 Technical Problem-Solving & Support
