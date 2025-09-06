@@ -95,7 +95,7 @@ This repository showcases my collection of 3D printing projects created using Bl
 - ** Portal** – Artistic and decorative 3D print  
 - ** Functional Clock** – A working 3D-printed clock design  
 
-  [View / Dowload PDF](https://github.com/guyleonchen/3d-Printing/blob/main/3d%20Printing%20Designs.pdf)
+  [View PDF](https://github.com/guyleonchen/3d-Printing/blob/main/3d%20Printing%20Designs.pdf)
 
  ---
   
