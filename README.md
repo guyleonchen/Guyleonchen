@@ -74,9 +74,9 @@ This project shows my hands-on experience with TryHackMe's Windows Fundamentals 
   
 ### AI Built Email Phishing Scanner ###
 
-- 🛡️ **CyberGuard Pro** – Email Phishing Demo A React-based portfolio project that simulates scanning emails for phishing and social engineering risks. Shows real-time threat scores, flags authority impersonation, and generates clear security reports in a cyber-themed UI.
+- 🛡️ **CyberGuard Pro** – Email Phishing Demo A React-based portfolio project that simulates scanning emails for phishing and social engineering risks. Shows real-time threat scores, flags authority impersonation, and generates clear security reports in a cyber-themed UI. ***Email Received → Copy / Paste → Scan → Good / Bad? → Detailed Report → Steps to Take.***
 
-- [CyberGuardPro Try Me](https://cyber-guard-analyze.lovable.app/)
+- [CyberGuardPro Try Me](https://cyber-guard-analyze.lovable.app/)  
 - [View / Download PDF](https://github.com/guyleonchen/CyberGuard-Pro/blob/ca1d6f4ea7d5014051a1ac4d52445f38a119c7a2/CyberGuardPro%20AI%20Portfolio.pdf)
  
 ---
