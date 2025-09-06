@@ -39,7 +39,7 @@ Resourceful and analytical professional with a strong foundation in cybersecurit
 - Certificate III in Manufacturing Technology, Statement in CNC Machining, MEM16008 – Interact with Computing Technology, MEM30027 – Prepare Basic Programmable Logic Controllers, MEM09204 – Produce Basic Engineering Detail Drawings, MEM09002 – Interpret Technical Drawings  
 ---
 
-## 🔧 Technical Problem-Solving & Support
+## Technical Problem-Solving & Support
 
 - IT & Hardware Troubleshooting: Resolved printer, email, and network issues, diagnosed CNC machines not receiving files.
 - System & Production Support: Sourced and deployed a 3-phase-compatible generator during warehouse electrical shutdowns, ensuring minimal downtime.
