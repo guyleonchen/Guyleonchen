@@ -33,7 +33,7 @@ Resourceful and analytical professional with a strong foundation in cybersecurit
  
 - Cisco Junior Cybersecurity Analyst Career Path – Completed 04 Aug 2025  
 - TryHackMe: Fundamentals of Microsoft Word (1–3) – Completed 04 Sep 2025
-- TryHackMe: Fundamentals of Linux (1–3) – Completed  05 Serp 2025
+- TryHackMe: Fundamentals of Linux (1–3) – Completed  05 Sep 2025
 
 ### Manufacturing & Engineering
 - Statement in CNC Machining  
