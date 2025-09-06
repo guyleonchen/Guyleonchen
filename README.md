@@ -40,10 +40,10 @@ Resourceful and analytical professional with a strong foundation in cybersecurit
 ---
 
 ## 🔧 Technical Problem-Solving & Support
-- Machinery Troubleshooting & Diagnostics – Diagnosed complex machinery issues, including CNC machines not receiving files, network outages, and successful USB workarounds.  
-- Electrical & Production Problem-Solving – Sourced a 3-phase-compatible petrol generator to run two CNC lathes during warehouse electrical shutdowns, maintaining production timelines.  
-- Printer & Email Support – Recognized as go-to person for printer and email issues.  
-- Analytical Thinking – Applied systematic approaches to identify root causes and implement solutions across machinery, network, and workflow problems.  
+
+- IT & Hardware Troubleshooting: Resolved printer, email, and network issues; diagnosed CNC machines not receiving files.
+- System & Production Support: Sourced and deployed a 3-phase-compatible generator during warehouse electrical shutdowns, ensuring minimal downtime.
+- Analytical Problem-Solving: Applied systematic approaches to identify root causes and implement effective solutions across machinery, networks, and workflows.
 
 ---
 
