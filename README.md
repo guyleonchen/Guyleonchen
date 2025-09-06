@@ -61,15 +61,15 @@ Resourceful and analytical professional with a strong foundation in cybersecurit
 
 - **AI Cybersecurity Game** – LoveableAI: Developed an interactive AI game to educate users on email security, phishing detection, and safe communication practices. Includes simulations, quizzes, and certification tracking.
 
-- [Play the game here](https://emailsecurityawarenesscampaign.lovable.app/)
-- [View / Download PDF](https://github.com/guyleonchen/AI-design/blob/e2a08bef126a3412bc7a3b06e6267ee319cd2718/Game%20Design%20With%20AI.pdf)
+- [Play the game](https://emailsecurityawarenesscampaign.lovable.app/)
+- [View PDF](https://github.com/guyleonchen/AI-design/blob/e2a08bef126a3412bc7a3b06e6267ee319cd2718/Game%20Design%20With%20AI.pdf)
   
 ### AI Built Email Phishing Scanner ###
 
 - **Email Phishing Scanner** – CyberGuard Pro: Created a React-based tool simulating email phishing detection and social engineering risk analysis. Features real-time threat scores, impersonation flags, and step-by-step security reports.
 
-- [CyberGuardPro Try Me](https://cyber-guard-analyze.lovable.app/)  
-- [View / Download PDF](https://github.com/guyleonchen/CyberGuard-Pro/blob/ca1d6f4ea7d5014051a1ac4d52445f38a119c7a2/CyberGuardPro%20AI%20Portfolio.pdf)
+- [Try CyberGuardPro](https://cyber-guard-analyze.lovable.app/)  
+- [View PDF](https://github.com/guyleonchen/CyberGuard-Pro/blob/ca1d6f4ea7d5014051a1ac4d52445f38a119c7a2/CyberGuardPro%20AI%20Portfolio.pdf)
  
 ---
 
