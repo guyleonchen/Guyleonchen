@@ -51,9 +51,7 @@ Resourceful and analytical professional with a strong foundation in cybersecurit
 
 ### Cybersecurity & IT Labs
 
-- **TryHackMe Labs** - Fundamentals of Linux, Microsoft, and cybersecurity practice.  
-
-This project shows my hands-on experience with TryHackMe's Windows Fundamentals 1 to 3 courses and Linux. It includes documented proof of the labs I completed and the skills I learned in managing Windows environments and Linux enviroments.
+- **TryHackMe Labs** – Windows & Linux Fundamentals: Completed TryHackMe Labs for Windows Fundamentals 1–3 and Linux 1–3, gaining hands-on experience managing operating systems, troubleshooting, and cybersecurity basics.
 
 - [Windows Fundamentals 1 to 3 Labs Summary](https://github.com/guyleonchen/Labs-Tryhackme/blob/ae59476a2888135abea17f4ae6fbd254a13c6da3/Windows%20Fundamentals%201%20to%203%20Labs%20Summary.pdf)
 
@@ -61,14 +59,14 @@ This project shows my hands-on experience with TryHackMe's Windows Fundamentals 
 
 ### AI Built Cybersecurity Game And Email Phsishing Scanner ###
 
-- 🎮 **LoveableAI** - Using AI and my custom prompts, I created an interactive game that educates users on email security best practices—including phishing detection, safe email handling, and secure communication strategies—through simulations, quizzes, and progress tracking, with a certification upon completion.
+- **AI Cybersecurity Game** – LoveableAI: Developed an interactive AI game to educate users on email security, phishing detection, and safe communication practices. Includes simulations, quizzes, and certification tracking.
 
 - [Play the game here](https://emailsecurityawarenesscampaign.lovable.app/)
 - [View / Download PDF](https://github.com/guyleonchen/AI-design/blob/e2a08bef126a3412bc7a3b06e6267ee319cd2718/Game%20Design%20With%20AI.pdf)
   
 ### AI Built Email Phishing Scanner ###
 
-- 🛡️ **CyberGuard Pro** – Email Phishing Demo A React-based portfolio project that simulates scanning emails for phishing and social engineering risks. Shows real-time threat scores, flags authority impersonation, and generates clear security reports in a cyber-themed UI. ***Email Received → Copy / Paste → Scan → Good / Bad? → Detailed Report → Steps to Take.***
+- **Email Phishing Scanner** – CyberGuard Pro: Created a React-based tool simulating email phishing detection and social engineering risk analysis. Features real-time threat scores, impersonation flags, and step-by-step security reports.
 
 - [CyberGuardPro Try Me](https://cyber-guard-analyze.lovable.app/)  
 - [View / Download PDF](https://github.com/guyleonchen/CyberGuard-Pro/blob/ca1d6f4ea7d5014051a1ac4d52445f38a119c7a2/CyberGuardPro%20AI%20Portfolio.pdf)
