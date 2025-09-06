@@ -65,7 +65,7 @@ This project shows my hands-on experience with TryHackMe's Windows Fundamentals 
 
 - [Linux Fundamentals Labs 1 to 3 Labs Summary](https://github.com/guyleonchen/Linux-Fundamentals/blob/85715df743a41f86fd37461e11b551f2f2afab1a/linux%20Fundamentals%20Labs%20Summary%201%20to%203%20Labs%20Summary.pdf)
 
-### AI Built Cybersecurity Game 
+### AI Built Cybersecurity Game And Email Phsishing Scanner ###
 
 - 🎮 **LoveableAI** - Using AI and my custom prompts, I created an interactive game that educates users on email security best practices—including phishing detection, safe email handling, and secure communication strategies—through simulations, quizzes, and progress tracking, with a certification upon completion.
 
