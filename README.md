@@ -53,9 +53,9 @@ Resourceful and analytical professional with a strong foundation in cybersecurit
 
 - **TryHackMe Labs** – Windows & Linux Fundamentals: Completed TryHackMe Labs for Windows Fundamentals 1–3 and Linux 1–3, gaining hands-on experience managing operating systems, troubleshooting, and cybersecurity basics.
 
-- [Windows Fundamentals 1 to 3 Labs Summary](https://github.com/guyleonchen/Labs-Tryhackme/blob/ae59476a2888135abea17f4ae6fbd254a13c6da3/Windows%20Fundamentals%201%20to%203%20Labs%20Summary.pdf)
+- [Windows Labs Summary](https://github.com/guyleonchen/Labs-Tryhackme/blob/ae59476a2888135abea17f4ae6fbd254a13c6da3/Windows%20Fundamentals%201%20to%203%20Labs%20Summary.pdf)
 
-- [Linux Fundamentals Labs 1 to 3 Labs Summary](https://github.com/guyleonchen/Linux-Fundamentals/blob/85715df743a41f86fd37461e11b551f2f2afab1a/linux%20Fundamentals%20Labs%20Summary%201%20to%203%20Labs%20Summary.pdf)
+- [Linux Labs Summary](https://github.com/guyleonchen/Linux-Fundamentals/blob/85715df743a41f86fd37461e11b551f2f2afab1a/linux%20Fundamentals%20Labs%20Summary%201%20to%203%20Labs%20Summary.pdf)
 
 ### AI Built Cybersecurity Game And Email Phsishing Scanner ###
 
