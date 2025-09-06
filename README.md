@@ -77,7 +77,7 @@ This project shows my hands-on experience with TryHackMe's Windows Fundamentals 
 - 🛡️ **CyberGuard Pro** – Email Phishing Demo A React-based portfolio project that simulates scanning emails for phishing and social engineering risks. Shows real-time threat scores, flags authority impersonation, and generates clear security reports in a cyber-themed UI.
 
 - [CyberGuard PRO Portfolio Tool](https://cyber-guard-analyze.lovable.app/)
-- [View / Download PDF](https://github.com/guyleonchen/CyberGuard-Pro/blob/669987ceb6a378614a66cefb72a3ff51abedd460/Cyber%20Guard%20Pro%20Merged.pdf)
+- [View / Download PDF](https://github.com/guyleonchen/CyberGuard-Pro/blob/ca1d6f4ea7d5014051a1ac4d52445f38a119c7a2/CyberGuardPro%20AI%20Portfolio.pdf)
  
 ---
 
