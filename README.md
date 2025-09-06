@@ -81,7 +81,7 @@ Showcasing a mix of personal CAD projects and real-world builds, I worked with c
   [View / Download PDF](https://github.com/guyleonchen/Cad-Designs/blob/main/Snowboard%20Ramp.pdf)
 
 - 🎁 **Truss Cube Christmass-Present** – Autodesk CAD design with 3D Texturing done in Maya.  
-  [View / Download PDF](https://raw.githubusercontent.com/guyleonchen/Truss-Cube-Christmas-Present-Structure/9b14cccbcae82be2eefcf5092fd9b913f9fa6250/Present.pdf)
+  [View / Download PDF](https://githubusercontent.com/guyleonchen/Truss-Cube-Christmas-Present-Structure/9b14cccbcae82be2eefcf5092fd9b913f9fa6250/Present.pdf)
 
 - 🛠 **Autodesk Inventor – Assembly Block** – A 3D assembly designed entirely in Autodesk Inventor, consisting of five custom-designed parts. The animation demonstrates how each part fits and interacts within the full assembly.
 
