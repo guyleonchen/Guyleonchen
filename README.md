@@ -70,7 +70,7 @@ This project shows my hands-on experience with TryHackMe's Windows Fundamentals 
 - 🎮 **LoveableAI** - Using AI and my custom prompts, I created an interactive game that educates users on email security best practices—including phishing detection, safe email handling, and secure communication strategies—through simulations, quizzes, and progress tracking, with a certification upon completion.
 
 - [Play the game here](https://emailsecurityawarenesscampaign.lovable.app/)
-- [View / Download PDF](https://github.com/guyleonchen/AI-Portfolio/blob/b268259c3ab7f276e5de5d3303348a00a0d57ff2/Game%20Design%20With%20AI.pdf)
+- [View / Download PDF](https://github.com/guyleonchen/AI-design/blob/e2a08bef126a3412bc7a3b06e6267ee319cd2718/Game%20Design%20With%20AI.pdf)
  
 ---
 
