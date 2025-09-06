@@ -41,7 +41,7 @@ Resourceful and analytical professional with a strong foundation in cybersecurit
 
 ## 🔧 Technical Problem-Solving & Support
 
-- IT & Hardware Troubleshooting: Resolved printer, email, and network issues; diagnosed CNC machines not receiving files.
+- IT & Hardware Troubleshooting: Resolved printer, email, and network issues, diagnosed CNC machines not receiving files.
 - System & Production Support: Sourced and deployed a 3-phase-compatible generator during warehouse electrical shutdowns, ensuring minimal downtime.
 - Analytical Problem-Solving: Applied systematic approaches to identify root causes and implement effective solutions across machinery, networks, and workflows.
 
