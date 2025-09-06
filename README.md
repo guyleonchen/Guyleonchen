@@ -99,7 +99,14 @@ This repository showcases my collection of 3D printing projects created using Bl
 
  ---
   
-## ⚙️ Tools & Workflow
+## Tools & Workflow
+
+Cybersecurity & IT:
+
+- **Windows & Linux** – OS management, troubleshooting, and system administration
+- **React & AI-Enhanced Frontend Development** – Built portfolio projects using React with AI-assisted prompts and automation for interactive UI and functionality
+- **TryHackMe Labs** – Hands-on cybersecurity practice
+- **Email Security Tools** – Phishing detection and analysis
 - **Blender** → Creative 3D modeling and sculpting.
 - **Autodesk** → Precise CAD design for functional parts.  
 - **Cura** → Preparing, slicing, and optimizing for 3D printing. 
