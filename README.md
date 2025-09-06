@@ -92,8 +92,8 @@ Showcases personal and real-world CAD projects, demonstrating precision, plannin
 
 This repository showcases my collection of 3D printing projects created using Blender, Autodesk Inventor, and Cura. I pursue these projects as a hobby, exploring creativity and practical design. Currently included: Portal and a Functional Clock, both documented in the PDF below.
 
-- ** Portal** – Artistic and decorative 3D print  
-- ** Functional Clock** – A working 3D-printed clock design  
+- Portal – Artistic and decorative 3D print  
+- Functional Clock** – A working 3D-printed clock design  
 
   [View PDF](https://github.com/guyleonchen/3d-Printing/blob/main/3d%20Printing%20Designs.pdf)
 
