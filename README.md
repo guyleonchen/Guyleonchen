@@ -71,6 +71,13 @@ This project shows my hands-on experience with TryHackMe's Windows Fundamentals 
 
 - [Play the game here](https://emailsecurityawarenesscampaign.lovable.app/)
 - [View / Download PDF](https://github.com/guyleonchen/AI-design/blob/e2a08bef126a3412bc7a3b06e6267ee319cd2718/Game%20Design%20With%20AI.pdf)
+  
+### AI Built Cybersecurity Game 
+
+- 🛡️ **CyberGuard Pro** – Email Phishing Demo A React-based portfolio project that simulates scanning emails for phishing and social engineering risks. Shows real-time threat scores, flags authority impersonation, and generates clear security reports in a cyber-themed UI.
+
+- [CyberGuard PRO Portfolio Tool](https://cyber-guard-analyze.lovable.app/)
+- [View / Download PDF](https://github.com/guyleonchen/CyberGuard-Pro/blob/669987ceb6a378614a66cefb72a3ff51abedd460/Cyber%20Guard%20Pro%20Merged.pdf)
  
 ---
 
