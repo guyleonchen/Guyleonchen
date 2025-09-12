@@ -69,8 +69,7 @@ Resourceful and analytical professional with a strong foundation in cybersecurit
 - **Email Phishing Scanner** – CyberGuard Pro: Created a React-based tool simulating email phishing detection and social engineering risk analysis. Features real-time threat scores, impersonation flags, and step-by-step security reports.
 
 - [Try CyberGuardPro](https://cyber-guard-analyze.lovable.app/)  
-- [View PDF](https://github.com/guyleonchen/CyberGuard-Pro/raw/ca1d6f4ea7d5014051a1ac4d52445f38a119c7a2/CyberGuardPro%20AI%20Portfolio.pdf)
-
+- [View PDF](https://github.com/guyleonchen/CyberGuard-Pro/blob/ca1d6f4ea7d5014051a1ac4d52445f38a119c7a2/CyberGuardPro%20AI%20Portfolio.pdf)
  
 ---
 
