@@ -57,7 +57,7 @@ Resourceful and analytical professional with a strong foundation in cybersecurit
 
 - [Linux Labs Summary](https://github.com/guyleonchen/Linux-Fundamentals/blob/85715df743a41f86fd37461e11b551f2f2afab1a/linux%20Fundamentals%20Labs%20Summary%201%20to%203%20Labs%20Summary.pdf)
 
-### AI Built Cybersecurity Game And Email Phsishing Scanner ###
+### AI Built Cybersecurity Game And Email Phishishing Scanner ###
 
 - **AI Cybersecurity Game** – LoveableAI: Developed an interactive AI game to educate users on email security, phishing detection, and safe communication practices. Includes simulations, quizzes, and certification tracking.
 
