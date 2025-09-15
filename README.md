@@ -7,7 +7,8 @@ Motivated and detail-oriented professional with training in cybersecurity and IT
 - **Location:** Sydney, Australia  
 - **Phone:** 0498263880  
 - **Email:** guyleonchen@gmail.com
-- **LinkedIn:** [Guy Cheneval](https://www.linkedin.com/in/guyleonchen/)  
+- **LinkedIn:** [Guy Cheneval](www.linkedin.com/in?guy-cheneval-0646b0103)
+
 
 ---
 
