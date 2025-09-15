@@ -1,4 +1,3 @@
-<p align="center">
 <img src="https://github.com/guyleonchen/Banner-HELPDESK/blob/6e5c3c9ac46557b1a6a62a50b113d7d0a0469ce6/Banner%202.png?raw=true" width="1300"/>
 
 </p>
