@@ -1,9 +1,7 @@
 <p align="center">
-  <img src="https://github.com/guyleonchen/Banner/blob/65cd43ceaf38bbb37a8e2a8d7fd417250af8d34e/YouTube%20Banner%20-%20Guy%20Cheneval%20(4).png?raw=true" width="1300"/>
+<img src="https://github.com/guyleonchen/Banner-HELPDESK/blob/6e5c3c9ac46557b1a6a62a50b113d7d0a0469ce6/Banner%202.png?raw=true" width="1300"/>
+
 </p>
-
-
-
 
 # Hi, I’m Guy Cheneval! Welcome.
 
