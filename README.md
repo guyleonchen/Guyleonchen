@@ -22,6 +22,7 @@ Motivated and detail-oriented professional with training in cybersecurity and IT
 
 
 ### Cybersecurity & IT
+- Currently pursuing CompTIA A+
 - Google Cybersecurity Professional Certificate – Completed 31 Dec 2024  
 - CompTIA Security+ (SY0-701) – Completed 21 Jul 2025 
  
