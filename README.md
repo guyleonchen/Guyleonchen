@@ -84,7 +84,7 @@ Alongside my IT and cybersecurity work, I have a Certificate III in Manufacturin
   
  ---
 
- ## 3D Printing Designs
+ ## Creative Projects – 3D Printing
 
 This repository showcases my collection of 3D printing projects created using Blender, Autodesk Inventor, and Cura. I pursue these projects as a hobby, exploring creativity and practical design. Currently included: Portal and a Functional Clock, both documented in the PDF below.
 
