@@ -68,7 +68,7 @@ Motivated and detail-oriented professional with training in cybersecurity and IT
  
 ---
 
-### Other Technical Projects
+## Other Technical Projects 
 
 Alongside my IT and cybersecurity work, I have a Certificate III in Manufacturing Technology, where I gained experience with CAD design, CNC machining, and technical drawing. These projects demonstrate my ability to plan, design, and deliver technical solutions in a structured environment.
 
