@@ -31,72 +31,77 @@ Motivated and detail-oriented professional with training in cybersecurity and IT
 ---
 
 ## Projects 
-## Hands-on labs covering Windows, Linux, Microsoft 365, Intune, Active Directory, ticketing, and networking. Focused on practical IT support tasks and cybersecurity practices such as least privilege, MFA, compliance, and audit logging.  
+Hands-on labs covering **Windows**, **Linux**, **Microsoft 365**, **Intune**, **Active Directory**, **ticketing**, and **networking**. Focused on practical IT support tasks and cybersecurity practices such as **least privilege**, **MFA**, **compliance**, and **audit logging**.  
 
 
 
-**Windows Fundamentals (1–3)** Hands-on labs covering account management, password security, UAC, and firewall configuration
+**Windows Fundamentals (1–3)** 
+Hands-on labs covering **account management**, **password security**, **UAC**, and **firewall configuration**.  
 - User and password management  
-- Configured User Account Control (UAC)  
-- Applied Windows security best practices  
-- Managed Windows Defender Firewall (rules & profiles)
+- Configured **User Account Control (UAC)**  
+- Applied **Windows security best practices**  
+- Managed **Windows Defender Firewall** (rules & profiles)  
+
   
 📄 [Windows Labs Summary PDF](https://github.com/guyleonchen/Labs-Tryhackme/blob/ae59476a2888135abea17f4ae6fbd254a13c6da3/Windows%20Fundamentals%201%20to%203%20Labs%20Summary.pdf)
 
 **Linux Fundamentals (1–3)** Hands-on labs covering CLI navigation, file permissions, logs, processes, and text/file operations.  
 ### Linux Fundamentals (1–3)  
-Hands-on labs covering CLI navigation, file permissions, logs, processes, and text/file operations.
-- Navigated CLI and managed files/folders  
-- Controlled file permissions and ownership (`chmod`, `chown`)  
-- Inspected system/auth logs and managed processes  
-- Archived/compressed files and manipulated text (`grep`, `find`, `head`, `tail`)
+Hands-on labs covering **CLI navigation**, **file permissions**, **logs**, **processes**, and **text/file operations**.  
+- Navigated **CLI** and managed files/folders  
+- Controlled **file permissions and ownership** (`chmod`, `chown`)  
+- Inspected **system/auth logs** and managed **processes**  
+- Archived/compressed files and manipulated **text** (`grep`, `find`, `head`, `tail`) 
   
 
   
 📄 [Linux Labs Summary PDF](https://github.com/guyleonchen/Linux-Fundamentals/blob/85715df743a41f86fd37461e11b551f2f2afab1a/linux%20Fundamentals%20Labs%20Summary%201%20to%203%20Labs%20Summary.pdf)
 
 **Lab 1 – Microsoft 365 / Azure AD**  
-- Created a new tenant, added users, and assigned licenses  
-- Configured MFA with Microsoft Authenticator  
-- Applied least privilege roles (Helpdesk Admin instead of Global Admin)
+- Created a new **tenant**, added **users**, and assigned **licenses**  
+- Configured **MFA** with Microsoft Authenticator  
+- Applied **least privilege roles** (Helpdesk Admin instead of Global Admin)  
+
   
 📄 [View Lab 1 – Microsoft 365 / Azure AD PDF](https://github.com/guyleonchen/Labs-1---6/blob/c09ac7773c787b297dc067a4709663b4542f80a9/Lab1-M365-Tenant-MFA-Evidence-Final.pdf)
 
 **Lab 2 – Intune Enrollment**  
-- Enrolled Windows VM into Intune via Entra ID  
-- Applied password and compliance policies  
-- Enforced least privilege with a separate local admin account
+- Enrolled **Windows VM** into **Intune** via **Entra ID**  
+- Applied **password** and **compliance policies**  
+- Enforced **least privilege** with a separate local admin account  
+
   
 📄 [View Lab 2 – Intune Enrollment PDF](https://github.com/guyleonchen/Labs-1---6/blob/c09ac7773c787b297dc067a4709663b4542f80a9/Lab2-Intune-Enrollment-Policy-Evidence-Final.pdf)
 
 **Lab 3A – Intune Autopilot Deployment**  
-- Configured Windows Autopilot for Out-of-Box Experience (OOBE)  
-- Enforced MFA and Windows Hello for Business during setup  
-- Provisioned devices with standard user accounts by default  
+- Configured **Windows Autopilot** for Out-of-Box Experience (OOBE)  
+- Enforced **MFA** and **Windows Hello for Business** during setup  
+- Provisioned devices with **standard user accounts** by default  
 📄 [View Lab 3A – Intune Autopilot PDF](https://github.com/guyleonchen/Labs-1---6/blob/c09ac7773c787b297dc067a4709663b4542f80a9/Lab3A-Cloud-DeviceMgmt-Autopilot-Intune-EntraID-Evidence-Final.pdf)
 
 **Lab 3B – Active Directory Domain Services (VMware)**  
-- Installed and configured AD DS on Windows Server VM  
-- Created a new forest and `lab.local` domain  
-- Used ADUC, Group Policy, and DNS for centralized management  
+- Installed and configured **AD DS** on Windows Server VM  
+- Created a new **forest** and `lab.local` **domain**  
+- Used **ADUC**, **Group Policy**, and **DNS** for centralized management  
 📄 [View Lab 3B – AD DS Setup PDF](https://github.com/guyleonchen/Labs-1---6/blob/c09ac7773c787b297dc067a4709663b4542f80a9/Lab3B-Local-DeviceMgmt-VMware-ADDS-lab.local-Evidence-Final.pdf)
 
 **Lab 4 – Active Directory Lifecycle**  
-- Created users and groups, reset passwords, and tested logins  
-- Applied password complexity rules with Group Policy  
-- Demonstrated role-based access through AD accounts  
+- Created **users** and **groups**, reset **passwords**, and tested **logins**  
+- Applied **password complexity rules** with Group Policy  
+- Demonstrated **role-based access** through AD accounts  
+
 📄 [View Lab 4 – Active Directory Lifecycle PDF](https://github.com/guyleonchen/Labs-1---6/blob/22829c4f34d728f31d2db6d87e114f517004f34b/Lab4-AD-Lifecycle-Summary-Final.pdf)
 
 **Lab 5 – Ticketing & Troubleshooting**  
-- Created and closed mock tickets in Freshservice/Jira  
-- Documented knowledge base (KB) articles  
-- Simulated and resolved Windows issues with Event Viewer  
+- Created and closed **tickets** in Freshservice/Jira  
+- Documented **knowledge base (KB)** articles  
+- Simulated and resolved **Windows issues** with **Event Viewer**  
 📄 [View Lab 5 – Ticketing & Troubleshooting PDF](https://github.com/guyleonchen/Labs-1---6/blob/22829c4f34d728f31d2db6d87e114f517004f34b/Lab5-Ticketing-Windows-Troubleshooting-Summary-Final.pdf)
 
 **Lab 6 – Networking & Remote Support**  
-- Ran `ping`, `tracert`, and `ipconfig` for troubleshooting  
-- Simulated VPN connectivity issues  
-- Delivered remote support using RDP and TeamViewer  
+- Ran `ping`, `tracert`, and `ipconfig` for **network troubleshooting**  
+- Simulated **VPN connectivity issues**  
+- Delivered **remote support** using **RDP** and **TeamViewer**  
 📄 [View Lab 6 – Networking & Remote Support PDF](https://github.com/guyleonchen/Labs-1---6/blob/22829c4f34d728f31d2db6d87e114f517004f34b/Lab%206%20%E2%80%93%20Networking%20%2B%20Remote%20Support.pdf)
 
 ---
