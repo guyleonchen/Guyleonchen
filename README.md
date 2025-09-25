@@ -118,8 +118,15 @@ This repository showcases my collection of 3D printing projects created using Bl
 - **Maya** → 3D Texturing done in Maya.
 - **Inventor** → 3D CAD modeling, assemblies, and mechanical simulations.
 
-### Manufacturing & Engineering 
-- Certificate III in Manufacturing Technology, Statement in CNC Machining, MEM16008 – Interact with Computing Technology, MEM30027 – Prepare Basic Programmable Logic Controllers, MEM09204 – Produce Basic Engineering Detail Drawings, MEM09002 – Interpret Technical Drawings
+### Manufacturing & Machining Technology  
+Certificate III in Manufacturing Technology, with hands-on experience in CNC machining, CAD design, and technical drawing. This background shows my ability to work with precision, follow structured processes, and solve problems in technical environments.  
+
+- Certificate III in Manufacturing Technology
+- Statement in CNC Machining
+- MEM16008 – Interact with Computing Technology
+- MEM30027 – Prepare Basic Programmable Logic Controllers
+- MEM09204 – Produce Basic Engineering Detail Drawings
+- MEM09002 – Interpret Technical Drawings
 
 
 </details>
