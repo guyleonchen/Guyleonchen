@@ -75,13 +75,13 @@ Hands-on labs covering CLI navigation, file permissions, logs, processes, and te
 - Interactive game to train users on phishing detection and safe communication.
 - Includes simulations, quizzes, and certification tracking.
   
-▶️ [Play the game](https://emailsecurityawarenesscampaign.lovable.app/) / [View PDF](https://github.com/guyleonchen/AI-design/blob/e2a08bef126a3412bc7a3b06e6267ee319cd2718/Game%20Design%20With%20AI.pdf)
+▶️ [Play the game](https://emailsecurityawarenesscampaign.lovable.app/) / 📄 [View PDF](https://github.com/guyleonchen/AI-design/blob/e2a08bef126a3412bc7a3b06e6267ee319cd2718/Game%20Design%20With%20AI.pdf)
   
 **CyberGuard Pro – Email Phishing Scanner** 
 - React-based phishing detection tool with real-time threat scoring.  
 - Flags impersonation, suspicious links, and risky attachments.  
 
- 🖥️ [Try CyberGuardPro](https://cyber-guard-analyze.lovable.app/) / [View PDF](https://github.com/guyleonchen/CyberGuard-Pro/blob/ca1d6f4ea7d5014051a1ac4d52445f38a119c7a2/CyberGuardPro%20AI%20Portfolio.pdf)
+ 🖥️ [Try CyberGuardPro](https://cyber-guard-analyze.lovable.app/) / 📄 [View PDF](https://github.com/guyleonchen/CyberGuard-Pro/blob/ca1d6f4ea7d5014051a1ac4d52445f38a119c7a2/CyberGuardPro%20AI%20Portfolio.pdf)
  
 ---
 
