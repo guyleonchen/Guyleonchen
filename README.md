@@ -151,8 +151,6 @@ This repository showcases my collection of 3D printing projects created using Bl
  📄 [View PDF](https://github.com/guyleonchen/3d-Printing/blob/main/3d%20Printing%20Designs.pdf)
 
  ---
-  
-## Tools & Workflow
 
 ## Cybersecurity & IT:
 
