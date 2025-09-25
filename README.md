@@ -48,8 +48,10 @@ Motivated and detail-oriented professional with training in cybersecurity and IT
 Hands-on labs demonstrating IT support and cybersecurity skills, with security practices like least privilege, MFA, compliance, and audit logging.  
 
 **TryHackMe – Windows Fundamentals (1–3)** 
-- Completed Windows Fundamentals labs covering OS management, user accounts, file permissions, and troubleshooting basics.  
-- Gained experience with command-line tools, Event Viewer, and system administration tasks. 
+- User and password management  
+- Configured User Account Control (UAC)  
+- Applied Windows security best practices  
+- Managed Windows Defender Firewall (rules & profiles)  
 - [Windows Labs Summary PDF](https://github.com/guyleonchen/Labs-Tryhackme/blob/ae59476a2888135abea17f4ae6fbd254a13c6da3/Windows%20Fundamentals%201%20to%203%20Labs%20Summary.pdf)
 
 **TryHackMe – Linux Fundamentals (1–3)**  
