@@ -123,7 +123,7 @@ Hands-on labs covering **account management**, **password security**, **User Acc
 
 ## Other Technical Projects 
 
-Alongside my IT and cybersecurity work, I have a Certificate III in Manufacturing Technology, where I gained experience with CAD design, CNC machining, and technical drawing. These projects demonstrate my ability to plan, design, and deliver technical solutions in a structured environment.
+Alongside my IT and cybersecurity work, I have a Certificate III in Manufacturing Technology, where I gained experience with **Computer-Aided Design (CAD)**, **Computer Numerical Control (CNC) machining**, and technical drawing.
 
 **Layher Scaffold Snowboarding Ramp** – Autodesk CAD design with full construction drawings.
 - Autodesk CAD design with full construction drawings.
