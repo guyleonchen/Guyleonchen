@@ -6,7 +6,7 @@ Motivated and detail-oriented professional with training in cybersecurity and IT
 
 ### 📍 Details
 - Location: Sydney, Australia  
-- LinkedIn: [Guy Cheneval](guy-cheneval-0646b0103)  
+- LinkedIn: [Guy Cheneval](https://www.linkedin.com/in/guy-cheneval-0646b0103)  
 - GitHub: [guyleonchen](https://github.com/guyleonchen)  
 -  Contact: Available via LinkedIn or professional email upon request
 
