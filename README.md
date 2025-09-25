@@ -127,20 +127,18 @@ Certificate III in Manufacturing Technology, with hands-on experience in CNC mac
 - MEM30027 – Prepare Basic Programmable Logic Controllers
 - MEM09204 – Produce Basic Engineering Detail Drawings
 - MEM09002 – Interpret Technical Drawings
-
-
-</details>
-
+  
 ---
-
-## 🎯 Hobbies & Interests
-- Bodyboarding, Cooking, Golf, Gaming, TV Shows, Hanging out with friends and family  
-
-
 
 ## Technical Problem-Solving & Support
 
 - IT & Hardware Troubleshooting: Resolved printer, email, and network issues, diagnosed CNC machines not receiving files.
 - System & Production Support: Sourced and deployed a 3-phase-compatible generator during warehouse electrical shutdowns, ensuring minimal downtime.
 - Analytical Problem-Solving: Applied systematic approaches to identify root causes and implement effective solutions across machinery, networks, and workflows.
+
+---
+
+
+## 🎯 Hobbies & Interests
+- Bodyboarding, Cooking, Golf, Gaming, TV Shows, Hanging out with friends and family  
 
