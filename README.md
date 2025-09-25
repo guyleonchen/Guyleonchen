@@ -45,10 +45,13 @@ Motivated and detail-oriented professional with training in cybersecurity and IT
 ## Projects 
 
 ### Cybersecurity & IT Labs
+Hands-on labs demonstrating IT support and cybersecurity skills, with security practices like least privilege, MFA, compliance, and audit logging.  
 
-- **TryHackMe Labs** – Windows & Linux Fundamentals: Completed TryHackMe Labs for Windows Fundamentals 1–3 and Linux 1–3, gaining hands-on experience managing operating systems, troubleshooting, and cybersecurity basics.
-
-- [Windows Labs Summary](https://github.com/guyleonchen/Labs-Tryhackme/blob/ae59476a2888135abea17f4ae6fbd254a13c6da3/Windows%20Fundamentals%201%20to%203%20Labs%20Summary.pdf)
+**TryHackMe – Windows Fundamentals (1–3)** 
+  Hands-on labs demonstrating IT support and cybersecurity skills, with security practices like least privilege, MFA, compliance, and audit logging.  
+- Completed Windows Fundamentals labs covering OS management, user accounts, file permissions, and troubleshooting basics.  
+- Gained experience with command-line tools, Event Viewer, and system administration tasks. 
+- [Windows Labs Summary PDF](https://github.com/guyleonchen/Labs-Tryhackme/blob/ae59476a2888135abea17f4ae6fbd254a13c6da3/Windows%20Fundamentals%201%20to%203%20Labs%20Summary.pdf)
 
 - [Linux Labs Summary](https://github.com/guyleonchen/Linux-Fundamentals/blob/85715df743a41f86fd37461e11b551f2f2afab1a/linux%20Fundamentals%20Labs%20Summary%201%20to%203%20Labs%20Summary.pdf)
 
