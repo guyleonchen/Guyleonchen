@@ -4,12 +4,11 @@ Motivated and detail-oriented professional with training in cybersecurity and IT
 , and eager to begin a career in IT Support / Helpdesk.
 ---
 
-##  Details
-- **Location:** Sydney, Australia  
-- **Phone:** 0498263880  
-- **Email:** guyleonchen@gmail.com
-- **LinkedIn:** Guy Cheneval
-
+### 📍 Details
+- Location: Sydney, Australia  
+- LinkedIn: [Guy Cheneval](guy-cheneval-0646b0103)  
+- GitHub: [guyleonchen](https://github.com/guyleonchen)  
+-  Contact: Available via LinkedIn or professional email upon request
 
 ---
 
