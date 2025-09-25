@@ -23,7 +23,7 @@ Motivated and detail-oriented professional with training in cybersecurity and IT
 - Currently pursuing CompTIA A+
 - Google Cybersecurity Professional Certificate – Completed 31 Dec 2024  
 - CompTIA Security+ (SY0-701) – Completed 21 Jul 2025 
- - Cisco Junior Cybersecurity Analyst Career Path – Completed 04 Aug 2025
+- Cisco Junior Cybersecurity Analyst Career Path – Completed 04 Aug 2025
 
 ---
 
@@ -136,7 +136,7 @@ Alongside my IT and cybersecurity work, I have a Certificate III in Manufacturin
 - A 3D assembly designed in Autodesk Inventor, consisting of five custom parts.  
 - Includes animation showing how each part fits and interacts.  
 
-▶️ [View Animation](https://github.com/guyleonchen/Inventor-Assembly/blob/43901731e36dab0b33a99b21449115eb9686d6c0/Assembly%20Block.mp4) Download me to view.
+▶️ [View Animation](https://github.com/guyleonchen/Inventor-Assembly/blob/43901731e36dab0b33a99b21449115eb9686d6c0/Assembly%20Block.mp4) 
   
  ---
 
