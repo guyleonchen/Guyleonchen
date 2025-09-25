@@ -125,12 +125,12 @@ Hands-on labs covering **account management**, **password security**, **User Acc
 
 Alongside my IT and cybersecurity work, I have a Certificate III in Manufacturing Technology, where I gained experience with **Computer-Aided Design (CAD)**, **Computer Numerical Control (CNC) machining**, and technical drawing.
 
-**Layher Scaffold Snowboarding Ramp** – Autodesk CAD design with full construction drawings.
+**Layher Scaffold Snowboarding Ramp** 
 - Autodesk CAD design with full construction drawings.
   
 📄 [View PDF](https://github.com/guyleonchen/Cad-Designs/blob/main/Snowboard%20Ramp.pdf)
 
-**Truss Cube Christmass-Present**
+**Truss Cube Christmas Present**
 - Autodesk CAD design with 3D Texturing done in Maya.
   
 📄 [View PDF](https://github.com/guyleonchen/Truss-Cube-Christmas-Present-Structure/blob/9b14cccbcae82be2eefcf5092fd9b913f9fa6250/Present.pdf)
