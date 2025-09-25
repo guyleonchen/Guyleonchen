@@ -44,12 +44,12 @@ Hands-on labs covering **account management**, **password security**, **User Acc
 
 📄 [Windows Labs Summary PDF](https://github.com/guyleonchen/Labs-Tryhackme/blob/ae59476a2888135abea17f4ae6fbd254a13c6da3/Windows%20Fundamentals%201%20to%203%20Labs%20Summary.pdf)
 
-**Linux Fundamentals (1–3)** Hands-on labs covering **Command Line Navigation**, **file permissions**, **logs**, **processes**, and **text/file operations**.  
+**Linux Fundamentals (1–3)** Hands-on labs covering **Command Line Interface (CLI) navigation**, **file permissions**, **logs**, **processes**, and **text/file operations**.  
 - Navigated **Command Line Interface (CLI)** and managed files/folders  
 - Controlled **file permissions and ownership** (`chmod`, `chown`)  
 - Inspected **system/auth logs** and managed **processes**  
-- Archived/compressed files and manipulated **text** (`grep`, `find`, `head`, `tail`) 
-  
+- Archived/compressed files and manipulated **text** (`grep`, `find`, `head`, `tail`)  
+
 📄 [Linux Labs Summary PDF](https://github.com/guyleonchen/Linux-Fundamentals/blob/85715df743a41f86fd37461e11b551f2f2afab1a/linux%20Fundamentals%20Labs%20Summary%201%20to%203%20Labs%20Summary.pdf)
 
 **Lab 1 – Microsoft 365 / Azure AD**  
