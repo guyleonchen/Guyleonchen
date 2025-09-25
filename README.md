@@ -31,7 +31,7 @@ Motivated and detail-oriented professional with training in cybersecurity and IT
 ---
 
 ## Projects 
-## Cybersecurity & IT Labs Hands-on labs demonstrating IT support and cybersecurity skills, with security practices like least privilege, MFA, compliance, and audit logging.  
+## Hands-on labs covering Windows, Linux, Microsoft 365, Intune, Active Directory, ticketing, and networking. Focused on practical IT support tasks and cybersecurity practices such as least privilege, MFA, compliance, and audit logging.  
 
 
 
@@ -50,6 +50,48 @@ Motivated and detail-oriented professional with training in cybersecurity and IT
 - Archived/compressed files and manipulated text (grep, find, head, tail).
   
 📄 [Linux Labs Summary PDF](https://github.com/guyleonchen/Linux-Fundamentals/blob/85715df743a41f86fd37461e11b551f2f2afab1a/linux%20Fundamentals%20Labs%20Summary%201%20to%203%20Labs%20Summary.pdf)
+
+**Lab 1 – Microsoft 365 / Azure AD**  
+- Created a new tenant, added users, and assigned licenses  
+- Configured MFA with Microsoft Authenticator  
+- Applied least privilege roles (Helpdesk Admin instead of Global Admin)  
+📄 [View PDF]  
+
+**Lab 2 – Intune Enrollment**  
+- Enrolled Windows VM into Intune via Entra ID  
+- Applied password and compliance policies  
+- Enforced least privilege with a separate local admin account  
+📄 [View PDF]  
+
+**Lab 3A – Intune Autopilot Deployment**  
+- Configured Windows Autopilot for Out-of-Box Experience (OOBE)  
+- Enforced MFA and Windows Hello for Business during setup  
+- Provisioned devices with standard user accounts by default  
+📄 [View PDF]  
+
+**Lab 3B – Active Directory Domain Services (VMware)**  
+- Installed and configured AD DS on Windows Server VM  
+- Created a new forest and `lab.local` domain  
+- Used ADUC, Group Policy, and DNS for centralized management  
+📄 [View PDF]  
+
+**Lab 4 – Active Directory Lifecycle**  
+- Created users and groups, reset passwords, and tested logins  
+- Applied password complexity rules with Group Policy  
+- Demonstrated role-based access through AD accounts  
+📄 [View PDF]  
+
+**Lab 5 – Ticketing & Troubleshooting**  
+- Created and closed mock tickets in Freshservice/Jira  
+- Documented knowledge base (KB) articles  
+- Simulated and resolved Windows issues with Event Viewer  
+📄 [View PDF]  
+
+**Lab 6 – Networking & Remote Support**  
+- Ran `ping`, `tracert`, and `ipconfig` for troubleshooting  
+- Simulated VPN connectivity issues  
+- Delivered remote support using RDP and TeamViewer  
+📄 [View PDF]
 
 ---
   
