@@ -47,7 +47,7 @@ Motivated and detail-oriented professional with training in cybersecurity and IT
 ### Cybersecurity & IT Labs
 Hands-on labs demonstrating IT support and cybersecurity skills, with security practices like least privilege, MFA, compliance, and audit logging.  
 
-**Windows Fundamentals (1–3)** 
+**Windows Fundamentals (1–3)**
 Hands-on labs covering account management, password security, UAC, and firewall configuration
 - User and password management  
 - Configured User Account Control (UAC)  
