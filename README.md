@@ -32,14 +32,6 @@ Motivated and detail-oriented professional with training in cybersecurity and IT
   
 ---
 
-## Technical Problem-Solving & Support
-
-- IT & Hardware Troubleshooting: Resolved printer, email, and network issues, diagnosed CNC machines not receiving files.
-- System & Production Support: Sourced and deployed a 3-phase-compatible generator during warehouse electrical shutdowns, ensuring minimal downtime.
-- Analytical Problem-Solving: Applied systematic approaches to identify root causes and implement effective solutions across machinery, networks, and workflows.
-
----
-
 ## Projects 
 ## Cybersecurity & IT Labs Hands-on labs demonstrating IT support and cybersecurity skills, with security practices like least privilege, MFA, compliance, and audit logging.  
 
@@ -135,4 +127,10 @@ This repository showcases my collection of 3D printing projects created using Bl
 - Bodyboarding, Cooking, Golf, Gaming, TV Shows, Hanging out with friends and family  
 
 
+
+## Technical Problem-Solving & Support
+
+- IT & Hardware Troubleshooting: Resolved printer, email, and network issues, diagnosed CNC machines not receiving files.
+- System & Production Support: Sourced and deployed a 3-phase-compatible generator during warehouse electrical shutdowns, ensuring minimal downtime.
+- Analytical Problem-Solving: Applied systematic approaches to identify root causes and implement effective solutions across machinery, networks, and workflows.
 
