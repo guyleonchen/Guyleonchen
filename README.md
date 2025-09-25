@@ -27,6 +27,13 @@ Motivated and detail-oriented professional with training in cybersecurity and IT
 - Planning to pursue CCNA in 2026.
 
 ---
+  
+## Core Skills
+- Windows & Linux: OS management, troubleshooting, and system administration  
+- Microsoft 365, Intune, and Active Directory: Configuration, enrollment, and lifecycle management  
+- Networking: VPN, RDP, ping/tracert/ipconfig troubleshooting  
+- Security Practices: MFA, least privilege, compliance, phishing detection  
+---
 
 ## Projects 
 Hands-on labs covering **Windows**, **Linux**, **Microsoft 365**, **Intune**, **Active Directory**, **ticketing**, and **networking**. Focused on practical IT support tasks and cybersecurity practices such as **least privilege**, **Multi-factor authentication (MFA)**, **compliance**, and **audit logging**.  
@@ -153,12 +160,6 @@ This repository showcases my collection of 3D printing projects created using Bl
 
  ---
 
-## Cybersecurity & IT:
-
-- **Windows & Linux** – OS management, troubleshooting, and system administration
-- **React & AI-Enhanced Frontend Development** – Built portfolio projects using React with AI-assisted prompts and automation for interactive UI and functionality
-- **TryHackMe Labs** – Hands-on cybersecurity practice
-- **Email Security Tools** – Phishing detection and analysis
 ## 3D Design & Engineering:
 - **Blender** → Creative 3D modeling and sculpting.
 - **Autodesk** → Precise CAD design for functional parts.  
