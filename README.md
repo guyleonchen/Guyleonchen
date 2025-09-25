@@ -53,18 +53,19 @@ Motivated and detail-oriented professional with training in cybersecurity and IT
 
 ---
   
-
 ### AI Cybersecurity Projects 
  Projects built with React and AI-assisted tools to improve security awareness and phishing detection.
  
 **AI Cybersecurity Game (LovableAI)**
 - Interactive game to train users on phishing detection and safe communication.
 - Includes simulations, quizzes, and certification tracking.
+  
 ▶️ [Play the game](https://emailsecurityawarenesscampaign.lovable.app/) / 📄 [View PDF](https://github.com/guyleonchen/AI-design/blob/e2a08bef126a3412bc7a3b06e6267ee319cd2718/Game%20Design%20With%20AI.pdf)
   
 **CyberGuard Pro – Email Phishing Scanner** 
 - React-based phishing detection tool with real-time threat scoring.  
-- Flags impersonation, suspicious links, and risky attachments.  
+- Flags impersonation, suspicious links, and risky attachments.
+
 🖥️ [Try CyberGuardPro](https://cyber-guard-analyze.lovable.app/) / 📄 [View PDF](https://github.com/guyleonchen/CyberGuard-Pro/blob/ca1d6f4ea7d5014051a1ac4d52445f38a119c7a2/CyberGuardPro%20AI%20Portfolio.pdf)
  
 ---
@@ -75,10 +76,12 @@ Alongside my IT and cybersecurity work, I have a Certificate III in Manufacturin
 
 **Layher Scaffold Snowboarding Ramp** – Autodesk CAD design with full construction drawings.
 - Autodesk CAD design with full construction drawings.
+  
 📄 [View PDF](https://github.com/guyleonchen/Cad-Designs/blob/main/Snowboard%20Ramp.pdf)
 
 **Truss Cube Christmass-Present**
 - Autodesk CAD design with 3D Texturing done in Maya.
+  
 📄 [View PDF](https://github.com/guyleonchen/Truss-Cube-Christmas-Present-Structure/blob/9b14cccbcae82be2eefcf5092fd9b913f9fa6250/Present.pdf)
 
 **Autodesk Inventor – Assembly Block** 
@@ -96,7 +99,7 @@ This repository showcases my collection of 3D printing projects created using Bl
 - Portal – Artistic and decorative 3D print  
 - Functional Clock** – A working 3D-printed clock design  
 
-  [View PDF](https://github.com/guyleonchen/3d-Printing/blob/main/3d%20Printing%20Designs.pdf)
+ 📄 [View PDF](https://github.com/guyleonchen/3d-Printing/blob/main/3d%20Printing%20Designs.pdf)
 
  ---
   
