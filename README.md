@@ -105,7 +105,7 @@ Hands-on labs covering **account management**, **password security**, **User Acc
 ---
   
 ### AI Cybersecurity Projects 
- Projects built with React and AI-assisted tools to improve security awareness and phishing detection.
+ Projects builtt with AI-assisted tools to improve security awareness and phishing detection.
  
 **AI Cybersecurity Game (LovableAI)**
 - Interactive game to train users on phishing detection and safe communication.
