@@ -160,7 +160,7 @@ This repository showcases my collection of 3D printing projects created using Bl
 
  ---
 
-## 3D Design & Engineering:
+## 3D Design
 - **Blender** → Creative 3D modeling and sculpting.
 - **Autodesk** → Precise CAD design for functional parts.  
 - **Cura** → Preparing, slicing, and optimizing for 3D printing. 
