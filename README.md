@@ -82,10 +82,11 @@ Hands-on labs covering **account management**, **password security**, **User Acc
 
 📄 [View Lab 3B – AD DS Setup PDF](https://github.com/guyleonchen/Labs-1---6/blob/c09ac7773c787b297dc067a4709663b4542f80a9/Lab3B-Local-DeviceMgmt-VMware-ADDS-lab.local-Evidence-Final.pdf)
 
-**Lab 4 – Active Directory Lifecycle**  
+**Lab 4 – Active Directory Lifecycle**   
 - Created **users** and **groups**, reset **passwords**, and tested **logins**  
 - Applied **password complexity rules** with Group Policy  
-- Demonstrated **role-based access (RBAC)** through AD accounts  
+- Demonstrated **Role-Based Access Control (RBAC)** through AD accounts  
+
 
 📄 [View Lab 4 – Active Directory Lifecycle PDF](https://github.com/guyleonchen/Labs-1---6/blob/22829c4f34d728f31d2db6d87e114f517004f34b/Lab4-AD-Lifecycle-Summary-Final.pdf)
 
