@@ -62,10 +62,11 @@ Hands-on labs covering CLI navigation, file permissions, logs, processes, and te
 - Controlled file permissions and ownership (chmod, chown).  
 - Inspected system/auth logs and managed processes.  
 - Archived/compressed files and manipulated text (grep, find, head, tail).
-  
+- 
+📄 [Linux Labs Summary PDF](https://github.com/guyleonchen/Linux-Fundamentals/blob/85715df743a41f86fd37461e11b551f2f2afab1a/linux%20Fundamentals%20Labs%20Summary%201%20to%203%20Labs%20Summary.pdf)
+
 ---
   
-📄 [Linux Labs Summary PDF](https://github.com/guyleonchen/Linux-Fundamentals/blob/85715df743a41f86fd37461e11b551f2f2afab1a/linux%20Fundamentals%20Labs%20Summary%201%20to%203%20Labs%20Summary.pdf)
 
 ### AI Cybersecurity Projects 
  Projects built with React and AI-assisted tools to improve security awareness and phishing detection.
