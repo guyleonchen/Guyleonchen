@@ -76,9 +76,10 @@ Hands-on labs covering **account management**, **password security**, **User Acc
 📄 [View Lab 3A – Intune Autopilot PDF](https://github.com/guyleonchen/Labs-1---6/blob/c09ac7773c787b297dc067a4709663b4542f80a9/Lab3A-Cloud-DeviceMgmt-Autopilot-Intune-EntraID-Evidence-Final.pdf)
 
 **Lab 3B – Active Directory Domain Services (VMware)**  
-- Installed and configured **Active Directory Domain Services (AD DS)** on Windows Server VM  
+- Installed and configured **Active Directory Domain Services (AD DS)** on a Windows Server **Virtual Machine (VM)**  
 - Created a new **forest** and `lab.local` **domain**  
-- Used **Active Directory Users and Computers**, **Group Policy**, and **Domain Name System (DNS)** for centralized management  
+- Used **Active Directory Users and Computers (ADUC)**, **Group Policy**, and **Domain Name System (DNS)** for centralized management  
+
 📄 [View Lab 3B – AD DS Setup PDF](https://github.com/guyleonchen/Labs-1---6/blob/c09ac7773c787b297dc067a4709663b4542f80a9/Lab3B-Local-DeviceMgmt-VMware-ADDS-lab.local-Evidence-Final.pdf)
 
 **Lab 4 – Active Directory Lifecycle**  
