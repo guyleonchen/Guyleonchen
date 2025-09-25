@@ -45,7 +45,7 @@ Hands-on labs covering **account management**, **password security**, **User Acc
   
 📄 [Windows Labs Summary PDF](https://github.com/guyleonchen/Labs-Tryhackme/blob/ae59476a2888135abea17f4ae6fbd254a13c6da3/Windows%20Fundamentals%201%20to%203%20Labs%20Summary.pdf)
 
-**Linux Fundamentals (1–3)** Hands-on labs covering **CLI navigation**, **file permissions**, **logs**, **processes**, and **text/file operations**.  
+**Linux Fundamentals (1–3)** Hands-on labs covering **Command Line navugation**, **file permissions**, **logs**, **processes**, and **text/file operations**.  
 - Navigated **Command Line Interface** and managed files/folders  
 - Controlled **file permissions and ownership** (`chmod`, `chown`)  
 - Inspected **system/auth logs** and managed **processes**  
@@ -57,14 +57,14 @@ Hands-on labs covering **account management**, **password security**, **User Acc
 
 **Lab 1 – Microsoft 365 / Azure AD**  
 - Created a new **tenant**, added **users**, and assigned **licenses**  
-- Configured **MFA** with Microsoft Authenticator  
+- Configured **Multi-factor authentication** with Microsoft Authenticator  
 - Applied **least privilege roles** (Helpdesk Admin instead of Global Admin)  
 
   
 📄 [View Lab 1 – Microsoft 365 / Azure AD PDF](https://github.com/guyleonchen/Labs-1---6/blob/c09ac7773c787b297dc067a4709663b4542f80a9/Lab1-M365-Tenant-MFA-Evidence-Final.pdf)
 
 **Lab 2 – Intune Enrollment**  
-- Enrolled **Windows VM** into **Intune** via **Entra ID**  
+- Enrolled **VMware Virtual Machine** into **Intune** via **Entra ID**  
 - Applied **password** and **compliance policies**  
 - Enforced **least privilege** with a separate local admin account  
 
