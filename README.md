@@ -63,14 +63,13 @@ Hands-on labs covering **account management**, **password security**, **User Acc
 - Applied **password** and **compliance policies**  
 - Enforced **least privilege** with a separate local admin account  
 
-
-  
 📄 [View Lab 2 – Intune Enrollment PDF](https://github.com/guyleonchen/Labs-1---6/blob/c09ac7773c787b297dc067a4709663b4542f80a9/Lab2-Intune-Enrollment-Policy-Evidence-Final.pdf)
 
 **Lab 3A – Intune Autopilot Deployment**  
 - Configured **Windows Autopilot** for Out-of-Box Experience (OOBE)  
 - Enforced **Multi-factor authentication (MFA)** and **Windows Hello for Business** during setup  
-- Provisioned devices with **standard user accounts** by default  
+- Provisioned devices with **standard user accounts** by default
+  
 📄 [View Lab 3A – Intune Autopilot PDF](https://github.com/guyleonchen/Labs-1---6/blob/c09ac7773c787b297dc067a4709663b4542f80a9/Lab3A-Cloud-DeviceMgmt-Autopilot-Intune-EntraID-Evidence-Final.pdf)
 
 **Lab 3B – Active Directory Domain Services (VMware)**  
