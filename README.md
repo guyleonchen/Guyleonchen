@@ -31,14 +31,14 @@ Motivated and detail-oriented professional with training in cybersecurity and IT
 ---
 
 ## Projects 
-Hands-on labs covering **Windows**, **Linux**, **Microsoft 365**, **Intune**, **Active Directory**, **ticketing**, and **networking**. Focused on practical IT support tasks and cybersecurity practices such as **least privilege**, **MFA**, **compliance**, and **audit logging**.  
+Hands-on labs covering **Windows**, **Linux**, **Microsoft 365**, **Intune**, **Active Directory**, **ticketing**, and **networking**. Focused on practical IT support tasks and cybersecurity practices such as **least privilege**, **Multi-factor authentication**, **compliance**, and **audit logging**.  
 
 
 
 **Windows Fundamentals (1–3)** 
-Hands-on labs covering **account management**, **password security**, **UAC**, and **firewall configuration**.  
+Hands-on labs covering **account management**, **password security**, **User Access Control**, and **firewall configuration**.  
 - User and password management  
-- Configured **User Account Control (UAC)**  
+- Configured **User Account Control**  
 - Applied **Windows security best practices**  
 - Managed **Windows Defender Firewall** (rules & profiles)  
 
@@ -46,7 +46,7 @@ Hands-on labs covering **account management**, **password security**, **UAC**, a
 📄 [Windows Labs Summary PDF](https://github.com/guyleonchen/Labs-Tryhackme/blob/ae59476a2888135abea17f4ae6fbd254a13c6da3/Windows%20Fundamentals%201%20to%203%20Labs%20Summary.pdf)
 
 **Linux Fundamentals (1–3)** Hands-on labs covering **CLI navigation**, **file permissions**, **logs**, **processes**, and **text/file operations**.  
-- Navigated **CLI** and managed files/folders  
+- Navigated **Command Line Interface** and managed files/folders  
 - Controlled **file permissions and ownership** (`chmod`, `chown`)  
 - Inspected **system/auth logs** and managed **processes**  
 - Archived/compressed files and manipulated **text** (`grep`, `find`, `head`, `tail`) 
@@ -73,7 +73,7 @@ Hands-on labs covering **account management**, **password security**, **UAC**, a
 
 **Lab 3A – Intune Autopilot Deployment**  
 - Configured **Windows Autopilot** for Out-of-Box Experience (OOBE)  
-- Enforced **MFA** and **Windows Hello for Business** during setup  
+- Enforced **Multi-factor authentication** and **Windows Hello for Business** during setup  
 - Provisioned devices with **standard user accounts** by default  
 📄 [View Lab 3A – Intune Autopilot PDF](https://github.com/guyleonchen/Labs-1---6/blob/c09ac7773c787b297dc067a4709663b4542f80a9/Lab3A-Cloud-DeviceMgmt-Autopilot-Intune-EntraID-Evidence-Final.pdf)
 
