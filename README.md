@@ -61,7 +61,8 @@ Motivated and detail-oriented professional with training in cybersecurity and IT
 **Lab 2 – Intune Enrollment**  
 - Enrolled Windows VM into Intune via Entra ID  
 - Applied password and compliance policies  
-- Enforced least privilege with a separate local admin account  
+- Enforced least privilege with a separate local admin account
+  
 📄 [View Lab 2 – Intune Enrollment PDF](https://github.com/guyleonchen/Lab2-Intune-Enrollment-Policy-Evidence-Final/blob/3208299ed2a3814ac18c3b77175066700442a07f/Lab2-Intune-Enrollment-Policy-Evidence-Final.pdf)
 
 **Lab 3A – Intune Autopilot Deployment**  
