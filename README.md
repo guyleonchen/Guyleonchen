@@ -45,9 +45,7 @@ Hands-on labs covering **account management**, **password security**, **UAC**, a
   
 📄 [Windows Labs Summary PDF](https://github.com/guyleonchen/Labs-Tryhackme/blob/ae59476a2888135abea17f4ae6fbd254a13c6da3/Windows%20Fundamentals%201%20to%203%20Labs%20Summary.pdf)
 
-**Linux Fundamentals (1–3)** Hands-on labs covering CLI navigation, file permissions, logs, processes, and text/file operations.  
-### Linux Fundamentals (1–3)  
-Hands-on labs covering **CLI navigation**, **file permissions**, **logs**, **processes**, and **text/file operations**.  
+**Linux Fundamentals (1–3)** Hands-on labs covering **CLI navigation**, **file permissions**, **logs**, **processes**, and **text/file operations**.  
 - Navigated **CLI** and managed files/folders  
 - Controlled **file permissions and ownership** (`chmod`, `chown`)  
 - Inspected **system/auth logs** and managed **processes**  
