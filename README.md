@@ -90,13 +90,15 @@ Hands-on labs covering **account management**, **password security**, **User Acc
 **Lab 5 – Ticketing & Troubleshooting**  
 - Created and closed **tickets** in Freshservice/Jira  
 - Documented **Knowledge Base (KB)** articles  
-- Simulated and resolved **Windows issues** with **Event Viewer**  
+- Simulated and resolved **Windows issues** with **Event Viewer**
+  
 📄 [View Lab 5 – Ticketing & Troubleshooting PDF](https://github.com/guyleonchen/Labs-1---6/blob/22829c4f34d728f31d2db6d87e114f517004f34b/Lab5-Ticketing-Windows-Troubleshooting-Summary-Final.pdf)
 
 **Lab 6 – Networking & Remote Support**  
 - Ran `ping`, `tracert`, and `ipconfig` for **network troubleshooting**  
 - Simulated **Virtual Private Network (VPN) connectivity issues**  
-- Delivered **remote support** using **Remote Desktop Protocol (RDP)** and **TeamViewer**  
+- Delivered **remote support** using **Remote Desktop Protocol (RDP)** and **TeamViewer**
+  
 📄 [View Lab 6 – Networking & Remote Support PDF](https://github.com/guyleonchen/Labs-1---6/blob/22829c4f34d728f31d2db6d87e114f517004f34b/Lab%206%20%E2%80%93%20Networking%20%2B%20Remote%20Support.pdf)
 
 ---
