@@ -56,44 +56,44 @@ Motivated and detail-oriented professional with training in cybersecurity and IT
 - Configured MFA with Microsoft Authenticator  
 - Applied least privilege roles (Helpdesk Admin instead of Global Admin)
   
-📄 [View Lab 1 – Microsoft 365 / Azure AD PDF](https://github.com/guyleonchen/Lab1-M365-Tenant-MFA-Evidence-Final/blob/76b7b10d78ea1476b34171cf19a3017f367cc067/Lab1-M365-Tenant-MFA-Evidence-Final.pdf)
+📄 [View Lab 1 – Microsoft 365 / Azure AD PDF](https://github.com/guyleonchen/Labs-1---6/blob/c09ac7773c787b297dc067a4709663b4542f80a9/Lab1-M365-Tenant-MFA-Evidence-Final.pdf)
 
 **Lab 2 – Intune Enrollment**  
 - Enrolled Windows VM into Intune via Entra ID  
 - Applied password and compliance policies  
 - Enforced least privilege with a separate local admin account
   
-📄 [View Lab 2 – Intune Enrollment PDF](https://github.com/guyleonchen/Lab2-Intune-Enrollment-Policy-Evidence-Final/blob/3208299ed2a3814ac18c3b77175066700442a07f/Lab2-Intune-Enrollment-Policy-Evidence-Final.pdf)
+📄 [View Lab 2 – Intune Enrollment PDF](https://github.com/guyleonchen/Labs-1---6/blob/c09ac7773c787b297dc067a4709663b4542f80a9/Lab2-Intune-Enrollment-Policy-Evidence-Final.pdf)
 
 **Lab 3A – Intune Autopilot Deployment**  
 - Configured Windows Autopilot for Out-of-Box Experience (OOBE)  
 - Enforced MFA and Windows Hello for Business during setup  
 - Provisioned devices with standard user accounts by default  
-📄 [View PDF]  
+📄 [View Lab 3A – Intune Autopilot PDF](https://github.com/guyleonchen/Labs-1---6/blob/c09ac7773c787b297dc067a4709663b4542f80a9/Lab3A-Cloud-DeviceMgmt-Autopilot-Intune-EntraID-Evidence-Final.pdf)
 
 **Lab 3B – Active Directory Domain Services (VMware)**  
 - Installed and configured AD DS on Windows Server VM  
 - Created a new forest and `lab.local` domain  
 - Used ADUC, Group Policy, and DNS for centralized management  
-📄 [View PDF]  
+📄 [View Lab 3B – AD DS Setup PDF](https://github.com/guyleonchen/Labs-1---6/blob/c09ac7773c787b297dc067a4709663b4542f80a9/Lab3B-Local-DeviceMgmt-VMware-ADDS-lab.local-Evidence-Final.pdf)
 
 **Lab 4 – Active Directory Lifecycle**  
 - Created users and groups, reset passwords, and tested logins  
 - Applied password complexity rules with Group Policy  
 - Demonstrated role-based access through AD accounts  
-📄 [View PDF]  
+📄 [View Lab 4 – Active Directory Lifecycle PDF](https://github.com/guyleonchen/Labs-1---6/blob/22829c4f34d728f31d2db6d87e114f517004f34b/Lab4-AD-Lifecycle-Summary-Final.pdf)
 
 **Lab 5 – Ticketing & Troubleshooting**  
 - Created and closed mock tickets in Freshservice/Jira  
 - Documented knowledge base (KB) articles  
 - Simulated and resolved Windows issues with Event Viewer  
-📄 [View PDF]  
+📄 [View Lab 5 – Ticketing & Troubleshooting PDF](https://github.com/guyleonchen/Labs-1---6/blob/22829c4f34d728f31d2db6d87e114f517004f34b/Lab5-Ticketing-Windows-Troubleshooting-Summary-Final.pdf)
 
 **Lab 6 – Networking & Remote Support**  
 - Ran `ping`, `tracert`, and `ipconfig` for troubleshooting  
 - Simulated VPN connectivity issues  
 - Delivered remote support using RDP and TeamViewer  
-📄 [View PDF]
+📄 [View Lab 6 – Networking & Remote Support PDF](https://github.com/guyleonchen/Labs-1---6/blob/22829c4f34d728f31d2db6d87e114f517004f34b/Lab%206%20%E2%80%93%20Networking%20%2B%20Remote%20Support.pdf)
 
 ---
   
