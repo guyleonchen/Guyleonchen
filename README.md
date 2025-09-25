@@ -42,7 +42,7 @@ Motivated and detail-oriented professional with training in cybersecurity and IT
 
 ---
 
-## Projects
+## Projects 
 
 ### Cybersecurity & IT Labs
 
@@ -52,19 +52,19 @@ Motivated and detail-oriented professional with training in cybersecurity and IT
 
 - [Linux Labs Summary](https://github.com/guyleonchen/Linux-Fundamentals/blob/85715df743a41f86fd37461e11b551f2f2afab1a/linux%20Fundamentals%20Labs%20Summary%201%20to%203%20Labs%20Summary.pdf)
 
-### AI Built Cybersecurity Game And Email Phishishing Scanner ###
+### AI Cybersecurity Projects 
+ Projects built with React and AI-assisted tools to improve security awareness and phishing detection.
+ 
+**AI Cybersecurity Game (LovableAI)**
+- Interactive game to train users on phishing detection and safe communication.
+- Includes simulations, quizzes, and certification tracking.
+- [Play the game](https://emailsecurityawarenesscampaign.lovable.app/) / [View PDF](https://github.com/guyleonchen/AI-design/blob/e2a08bef126a3412bc7a3b06e6267ee319cd2718/Game%20Design%20With%20AI.pdf)
 
-- **AI Cybersecurity Game** – LoveableAI: Developed an interactive AI game to educate users on email security, phishing detection, and safe communication practices. Includes simulations, quizzes, and certification tracking.
-
-- [Play the game](https://emailsecurityawarenesscampaign.lovable.app/)
-- [View PDF](https://github.com/guyleonchen/AI-design/blob/e2a08bef126a3412bc7a3b06e6267ee319cd2718/Game%20Design%20With%20AI.pdf)
   
-### AI Built Email Phishing Scanner ###
-
-- **Email Phishing Scanner** – CyberGuard Pro: Created a React-based tool simulating email phishing detection and social engineering risk analysis. Features real-time threat scores, impersonation flags, and step-by-step security reports.
-
-- [Try CyberGuardPro](https://cyber-guard-analyze.lovable.app/)  
-- [View PDF](https://github.com/guyleonchen/CyberGuard-Pro/blob/ca1d6f4ea7d5014051a1ac4d52445f38a119c7a2/CyberGuardPro%20AI%20Portfolio.pdf)
+**CyberGuard Pro – Email Phishing Scanner** 
+- React-based phishing detection tool with real-time threat scoring.  
+- Flags impersonation, suspicious links, and risky attachments.  
+- [Try CyberGuardPro](https://cyber-guard-analyze.lovable.app/) / [View PDF](https://github.com/guyleonchen/CyberGuard-Pro/blob/ca1d6f4ea7d5014051a1ac4d52445f38a119c7a2/CyberGuardPro%20AI%20Portfolio.pdf)
  
 ---
 
