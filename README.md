@@ -60,10 +60,11 @@ Hands-on labs covering **account management**, **password security**, **User Acc
   
 📄 [View Lab 1 – Microsoft 365 / Azure AD PDF](https://github.com/guyleonchen/Labs-1---6/blob/c09ac7773c787b297dc067a4709663b4542f80a9/Lab1-M365-Tenant-MFA-Evidence-Final.pdf)
 
-**Lab 2 – Intune Enrollment.**  
-- Enrolled **VMware Virtual Machine** into **Intune** via **Entra ID**  
+**Lab 2 – Intune Enrollment**  
+- Enrolled **VMware Virtual Machine (VM)** into **Intune** via **Microsoft Entra ID**  
 - Applied **password** and **compliance policies**  
 - Enforced **least privilege** with a separate local admin account  
+
 
   
 📄 [View Lab 2 – Intune Enrollment PDF](https://github.com/guyleonchen/Labs-1---6/blob/c09ac7773c787b297dc067a4709663b4542f80a9/Lab2-Intune-Enrollment-Policy-Evidence-Final.pdf)
