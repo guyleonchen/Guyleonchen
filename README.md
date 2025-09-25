@@ -36,22 +36,19 @@ Hands-on labs covering **Windows**, **Linux**, **Microsoft 365**, **Intune**, **
 
 
 **Windows Fundamentals (1–3)** 
-Hands-on labs covering **account management**, **password security**, **User Access Control (UAC)**, and **firewall configuration**.  
+Hands-on labs covering **account management**, **password security**, **User Account Control (UAC)**, and **firewall configuration**.  
 - User and password management  
 - Configured **User Account Control (UAC)**  
 - Applied **Windows security best practices**  
 - Managed **Windows Defender Firewall** (rules & profiles)  
 
-  
 📄 [Windows Labs Summary PDF](https://github.com/guyleonchen/Labs-Tryhackme/blob/ae59476a2888135abea17f4ae6fbd254a13c6da3/Windows%20Fundamentals%201%20to%203%20Labs%20Summary.pdf)
 
-**Linux Fundamentals (1–3)** Hands-on labs covering **Command Line navugation**, **file permissions**, **logs**, **processes**, and **text/file operations**.  
+**Linux Fundamentals (1–3)** Hands-on labs covering **Command Line Navigation**, **file permissions**, **logs**, **processes**, and **text/file operations**.  
 - Navigated **Command Line Interface (CLI)** and managed files/folders  
 - Controlled **file permissions and ownership** (`chmod`, `chown`)  
 - Inspected **system/auth logs** and managed **processes**  
 - Archived/compressed files and manipulated **text** (`grep`, `find`, `head`, `tail`) 
-  
-
   
 📄 [Linux Labs Summary PDF](https://github.com/guyleonchen/Linux-Fundamentals/blob/85715df743a41f86fd37461e11b551f2f2afab1a/linux%20Fundamentals%20Labs%20Summary%201%20to%203%20Labs%20Summary.pdf)
 
@@ -63,7 +60,7 @@ Hands-on labs covering **account management**, **password security**, **User Acc
   
 📄 [View Lab 1 – Microsoft 365 / Azure AD PDF](https://github.com/guyleonchen/Labs-1---6/blob/c09ac7773c787b297dc067a4709663b4542f80a9/Lab1-M365-Tenant-MFA-Evidence-Final.pdf)
 
-**Lab 2 – Intune Enrollment**  
+**Lab 2 – Microsoft Entra ID.**  
 - Enrolled **VMware Virtual Machine** into **Intune** via **Entra ID**  
 - Applied **password** and **compliance policies**  
 - Enforced **least privilege** with a separate local admin account  
@@ -92,7 +89,7 @@ Hands-on labs covering **account management**, **password security**, **User Acc
 
 **Lab 5 – Ticketing & Troubleshooting**  
 - Created and closed **tickets** in Freshservice/Jira  
-- Documented **knowledge based** articles  
+- Documented **Knowledge Base (KB)** articles  
 - Simulated and resolved **Windows issues** with **Event Viewer**  
 📄 [View Lab 5 – Ticketing & Troubleshooting PDF](https://github.com/guyleonchen/Labs-1---6/blob/22829c4f34d728f31d2db6d87e114f517004f34b/Lab5-Ticketing-Windows-Troubleshooting-Summary-Final.pdf)
 
