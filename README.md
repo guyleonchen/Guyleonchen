@@ -24,6 +24,7 @@ Motivated and detail-oriented professional with training in cybersecurity and IT
 - Google Cybersecurity Professional Certificate – Completed 31 Dec 2024  
 - CompTIA Security+ (SY0-701) – Completed 21 Jul 2025 
 - Cisco Junior Cybersecurity Analyst Career Path – Completed 04 Aug 2025
+- Planning to pursue CCNA in 2026.
 
 ---
 
