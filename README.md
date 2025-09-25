@@ -105,7 +105,7 @@ Hands-on labs covering **account management**, **password security**, **User Acc
 ---
   
 ### AI Cybersecurity Projects 
- Projects builtt with AI-assisted tools to improve security awareness and phishing detection.
+ Projects built with AI-assisted tools to improve security awareness and phishing detection.
  
 **AI Cybersecurity Game (LovableAI)**
 - Interactive game to train users on phishing detection and safe communication.
@@ -148,7 +148,7 @@ Alongside my IT and cybersecurity work, I have a Certificate III in Manufacturin
 This repository showcases my collection of 3D printing projects created using Blender, Autodesk Inventor, and Cura. I pursue these projects as a hobby, exploring creativity and practical design. Currently included: Portal and a Functional Clock, both documented in the PDF below.
 
 - Portal – Artistic and decorative 3D print  
-- Functional Clock** – A working 3D-printed clock design  
+- Functional Clock – A working 3D-printed clock design  
 
  📄 [View PDF](https://github.com/guyleonchen/3d-Printing/blob/main/3d%20Printing%20Designs.pdf)
 
