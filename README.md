@@ -25,7 +25,7 @@ Motivated and detail-oriented professional with training in cybersecurity and IT
 - CompTIA Security+ (SY0-701) – Completed 21 Jul 2025 
  
 - Cisco Junior Cybersecurity Analyst Career Path – Completed 04 Aug 2025  
-- TryHackMe: Fundamentals of Microsoft Word (1–3) – Completed 04 Sep 2025
+- TryHackMe: Fundamentals of Windows (1–3) – Completed 04 Sep 2025
 - TryHackMe: Fundamentals of Linux (1–3) – Completed  05 Sep 2025
   
 ---
