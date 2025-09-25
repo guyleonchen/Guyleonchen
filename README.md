@@ -29,9 +29,7 @@ Motivated and detail-oriented professional with training in cybersecurity and IT
 - Cisco Junior Cybersecurity Analyst Career Path – Completed 04 Aug 2025  
 - TryHackMe: Fundamentals of Microsoft Word (1–3) – Completed 04 Sep 2025
 - TryHackMe: Fundamentals of Linux (1–3) – Completed  05 Sep 2025
-
-### Manufacturing & Engineering 
-- Certificate III in Manufacturing Technology, Statement in CNC Machining, MEM16008 – Interact with Computing Technology, MEM30027 – Prepare Basic Programmable Logic Controllers, MEM09204 – Produce Basic Engineering Detail Drawings, MEM09002 – Interpret Technical Drawings  
+  
 ---
 
 ## Technical Problem-Solving & Support
@@ -43,12 +41,11 @@ Motivated and detail-oriented professional with training in cybersecurity and IT
 ---
 
 ## Projects 
+## Cybersecurity & IT Labs Hands-on labs demonstrating IT support and cybersecurity skills, with security practices like least privilege, MFA, compliance, and audit logging.  
 
-### Cybersecurity & IT Labs
-Hands-on labs demonstrating IT support and cybersecurity skills, with security practices like least privilege, MFA, compliance, and audit logging.  
 
-**Windows Fundamentals (1–3)**
-Hands-on labs covering account management, password security, UAC, and firewall configuration
+
+**Windows Fundamentals (1–3)** Hands-on labs covering account management, password security, UAC, and firewall configuration
 - User and password management  
 - Configured User Account Control (UAC)  
 - Applied Windows security best practices  
@@ -56,8 +53,7 @@ Hands-on labs covering account management, password security, UAC, and firewall 
   
 📄 [Windows Labs Summary PDF](https://github.com/guyleonchen/Labs-Tryhackme/blob/ae59476a2888135abea17f4ae6fbd254a13c6da3/Windows%20Fundamentals%201%20to%203%20Labs%20Summary.pdf)
 
-**Linux Fundamentals (1–3)**  
-Hands-on labs covering CLI navigation, file permissions, logs, processes, and text/file operations.  
+**Linux Fundamentals (1–3)** Hands-on labs covering CLI navigation, file permissions, logs, processes, and text/file operations.  
 - Navigated CLI and managed files/folders.  
 - Controlled file permissions and ownership (chmod, chown).  
 - Inspected system/auth logs and managed processes.  
@@ -127,6 +123,8 @@ This repository showcases my collection of 3D printing projects created using Bl
 - **Maya** → 3D Texturing done in Maya.
 - **Inventor** → 3D CAD modeling, assemblies, and mechanical simulations.
 
+### Manufacturing & Engineering 
+- Certificate III in Manufacturing Technology, Statement in CNC Machining, MEM16008 – Interact with Computing Technology, MEM30027 – Prepare Basic Programmable Logic Controllers, MEM09204 – Produce Basic Engineering Detail Drawings, MEM09002 – Interpret Technical Drawings
 
 
 </details>
