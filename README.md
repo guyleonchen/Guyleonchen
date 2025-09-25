@@ -47,17 +47,25 @@ Motivated and detail-oriented professional with training in cybersecurity and IT
 ### Cybersecurity & IT Labs
 Hands-on labs demonstrating IT support and cybersecurity skills, with security practices like least privilege, MFA, compliance, and audit logging.  
 
-**TryHackMe – Windows Fundamentals (1–3)** 
+**Windows Fundamentals (1–3)** 
+Hands-on labs covering account management, password security, UAC, and firewall configuration
 - User and password management  
 - Configured User Account Control (UAC)  
 - Applied Windows security best practices  
-- Managed Windows Defender Firewall (rules & profiles)  
-- [Windows Labs Summary PDF](https://github.com/guyleonchen/Labs-Tryhackme/blob/ae59476a2888135abea17f4ae6fbd254a13c6da3/Windows%20Fundamentals%201%20to%203%20Labs%20Summary.pdf)
+- Managed Windows Defender Firewall (rules & profiles)
+  
+📄 [Windows Labs Summary PDF](https://github.com/guyleonchen/Labs-Tryhackme/blob/ae59476a2888135abea17f4ae6fbd254a13c6da3/Windows%20Fundamentals%201%20to%203%20Labs%20Summary.pdf)
 
-**TryHackMe – Linux Fundamentals (1–3)**  
-- Completed Linux Fundamentals labs covering file navigation, permissions, process management, and networking basics.  
-- Practiced using commands like `grep`, `find`, and `chmod` in a real Linux environment. 
-- [Linux Labs Summary PDF](https://github.com/guyleonchen/Linux-Fundamentals/blob/85715df743a41f86fd37461e11b551f2f2afab1a/linux%20Fundamentals%20Labs%20Summary%201%20to%203%20Labs%20Summary.pdf)
+**Linux Fundamentals (1–3)**  
+Hands-on labs covering CLI navigation, file permissions, logs, processes, and text/file operations.  
+- Navigated CLI and managed files/folders.  
+- Controlled file permissions and ownership (chmod, chown).  
+- Inspected system/auth logs and managed processes.  
+- Archived/compressed files and manipulated text (grep, find, head, tail).
+  
+---
+  
+📄 [Linux Labs Summary PDF](https://github.com/guyleonchen/Linux-Fundamentals/blob/85715df743a41f86fd37461e11b551f2f2afab1a/linux%20Fundamentals%20Labs%20Summary%201%20to%203%20Labs%20Summary.pdf)
 
 ### AI Cybersecurity Projects 
  Projects built with React and AI-assisted tools to improve security awareness and phishing detection.
@@ -65,13 +73,14 @@ Hands-on labs demonstrating IT support and cybersecurity skills, with security p
 **AI Cybersecurity Game (LovableAI)**
 - Interactive game to train users on phishing detection and safe communication.
 - Includes simulations, quizzes, and certification tracking.
-- [Play the game](https://emailsecurityawarenesscampaign.lovable.app/) / [View PDF](https://github.com/guyleonchen/AI-design/blob/e2a08bef126a3412bc7a3b06e6267ee319cd2718/Game%20Design%20With%20AI.pdf)
-
+  
+▶️ [Play the game](https://emailsecurityawarenesscampaign.lovable.app/) / [View PDF](https://github.com/guyleonchen/AI-design/blob/e2a08bef126a3412bc7a3b06e6267ee319cd2718/Game%20Design%20With%20AI.pdf)
   
 **CyberGuard Pro – Email Phishing Scanner** 
 - React-based phishing detection tool with real-time threat scoring.  
 - Flags impersonation, suspicious links, and risky attachments.  
-- [Try CyberGuardPro](https://cyber-guard-analyze.lovable.app/) / [View PDF](https://github.com/guyleonchen/CyberGuard-Pro/blob/ca1d6f4ea7d5014051a1ac4d52445f38a119c7a2/CyberGuardPro%20AI%20Portfolio.pdf)
+
+ 🖥️ [Try CyberGuardPro](https://cyber-guard-analyze.lovable.app/) / [View PDF](https://github.com/guyleonchen/CyberGuard-Pro/blob/ca1d6f4ea7d5014051a1ac4d52445f38a119c7a2/CyberGuardPro%20AI%20Portfolio.pdf)
  
 ---
 
