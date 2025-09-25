@@ -56,7 +56,7 @@ Motivated and detail-oriented professional with training in cybersecurity and IT
 - Configured MFA with Microsoft Authenticator  
 - Applied least privilege roles (Helpdesk Admin instead of Global Admin)
   
-📄 [View PDF – Evidence & Results](https://github.com/guyleonchen/Lab1-M365-Tenant-MFA-Evidence-Final/blob/76b7b10d78ea1476b34171cf19a3017f367cc067/Lab1-M365-Tenant-MFA-Evidence-Final.pdf)
+📄 [View Lab 1 – Microsoft 365 / Azure AD PDF](https://github.com/guyleonchen/Lab1-M365-Tenant-MFA-Evidence-Final/blob/76b7b10d78ea1476b34171cf19a3017f367cc067/Lab1-M365-Tenant-MFA-Evidence-Final.pdf)
 
 **Lab 2 – Intune Enrollment**  
 - Enrolled Windows VM into Intune via Entra ID  
