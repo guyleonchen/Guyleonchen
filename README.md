@@ -4,6 +4,11 @@ Motivated and detail-oriented professional with training in cybersecurity and IT
 , and eager to begin a career in IT Support / Helpdesk.
 ---
 
+Looking for my polished recruiter-ready portfolio?  
+Visit here: [IT Help Desk & Cybersecurity Portfolio](https://github.com/guyleonchen/it-helpdesk-cyber-portfolio)
+
+---
+
 ### 📍 Details
 - Location: Sydney, Australia  
 - LinkedIn: [Guy Cheneval](https://www.linkedin.com/in/guy-cheneval-0646b0103)  
