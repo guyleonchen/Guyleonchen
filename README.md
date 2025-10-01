@@ -9,6 +9,9 @@ Motivated and detail-oriented professional with training in cybersecurity and IT
 For the curated, recruiter-ready portfolio, please visit:  
 👉 [IT Help Desk & Cybersecurity Portfolio](https://github.com/guyleonchen/it-helpdesk-cyber-portfolio)
 
+I've started creating structured, printable cheat sheets for key IT and cybersecurity setups — perfect for quick reference while building labs.
+👉 [Click here to explore the Cheat Sheets repository](https://github.com/guyleonchen/Cheat-Sheets)
+
 ---
 
 ### 📍 Details
