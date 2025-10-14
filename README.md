@@ -1,6 +1,8 @@
 # Hi, I’m Guy Cheneval! Welcome.
 
-Motivated and detail-oriented professional with training in cybersecurity and IT fundamentals, supported by certifications in Google Cybersecurity and CompTIA Security+, plus additional study through Cisco’s Junior Cybersecurity Analyst Pathway. Skilled in troubleshooting, documentation, and problem-solving, with strong experience in customer service and teamwork from previous roles. Actively developing a portfolio of hands-on IT and cybersecurity projects.
+Motivated and detail-oriented professional with training in cybersecurity and IT fundamentals, supported by certifications in Google Cybersecurity and CompTIA Security+, plus additional study through Cisco’s Junior Cybersecurity Analyst Pathway. Skilled in troubleshooting, documentation, and problem-solving, with strong experience in customer service and teamwork from previous roles. Actively developing a portfolio of hands-on IT and cybersecurity projects. 
+
+📄 [View Resume](https://github.com/guyleonchen/CV/blob/8fcbe8684e59e8dcdc3c3fa578eb4cbd0bec213f/Guy_Cheneval_-_Cyber_Security.pdf)
 
 ---
 
@@ -15,7 +17,7 @@ I've started creating structured, printable cheat sheets for key IT and cybersec
 - Location: Sydney, Australia  
 - LinkedIn: [Guy Cheneval](https://www.linkedin.com/in/guy-cheneval-0646b0103)  
 -  Contact: guyleonchen@gmail.com
-
+-  
 ---
 
 ## Education, Training & Certifications
