@@ -1,13 +1,12 @@
 # Hi, I’m Guy Cheneval! Welcome.
 
-Motivated and detail-oriented professional with training in cybersecurity and IT fundamentals, supported by certifications in Google Cybersecurity and CompTIA Security+, plus additional study through Cisco’s Junior Cybersecurity Analyst Pathway. Skilled in troubleshooting, documentation, and problem-solving, with strong experience in customer service and teamwork from previous roles. Actively developing a portfolio of hands-on IT and cybersecurity projects. 
-
-📄 [View Resume](https://github.com/guyleonchen/CV/blob/8fcbe8684e59e8dcdc3c3fa578eb4cbd0bec213f/Guy_Cheneval_-_Cyber_Security.pdf)
+Motivated and detail-oriented professional with training in cybersecurity and IT fundamentals, supported by certifications in Google Cybersecurity and CompTIA Security+, plus additional study through Cisco’s Junior Cybersecurity Analyst Pathway. Skilled in troubleshooting, documentation, and problem-solving, with strong experience in customer service and teamwork from previous roles. Actively developing a portfolio of hands-on IT and cybersecurity projects. 📄 [View Resume](https://github.com/guyleonchen/CV/blob/8fcbe8684e59e8dcdc3c3fa578eb4cbd0bec213f/Guy_Cheneval_-_Cyber_Security.pdf)
 
 ---
 
 📂 Note: This repository contains all of my projects, works in progress, and learning journey.  
-For the curated, recruiter-ready portfolio, please visit: [IT Help Desk & Cybersecurity Portfolio](https://github.com/guyleonchen/it-helpdesk-cyber-portfolio)
+For the curated, recruiter-ready portfolio, please visit: 
+📄 [View Portfolio](https://github.com/guyleonchen/it-helpdesk-cyber-portfolio)
 
 I've started creating structured, printable cheat sheets for key IT and cybersecurity setups — perfect for quick reference while building labs. [Click here to explore the Cheat Sheets repository](https://github.com/guyleonchen/Cheat-Sheets)
 
@@ -17,7 +16,7 @@ I've started creating structured, printable cheat sheets for key IT and cybersec
 - Location: Sydney, Australia  
 - LinkedIn: [Guy Cheneval](https://www.linkedin.com/in/guy-cheneval-0646b0103)  
 -  Contact: guyleonchen@gmail.com
--  
+  
 ---
 
 ## Education, Training & Certifications
