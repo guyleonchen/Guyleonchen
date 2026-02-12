@@ -22,28 +22,28 @@ Active Directory • Microsoft 365 • Entra ID • Intune • Microsoft Defende
 - Configured **Multi-factor authentication (MFA)** with Microsoft Authenticator  
 - Applied **least privilege roles** (Helpdesk Admin instead of Global Admin)  
 
-📄 [Technical Documentation (PDF)](https://github.com/guyleonchen/Labs-1---6/blob/c09ac7773c787b297dc067a4709663b4542f80a9/Lab1-M365-Tenant-MFA-Evidence-Final.pdf)
+[Technical Documentation (PDF)](https://github.com/guyleonchen/Labs-1---6/blob/c09ac7773c787b297dc067a4709663b4542f80a9/Lab1-M365-Tenant-MFA-Evidence-Final.pdf)
 
 # Intune Device Enrollment & Compliance
 - Enrolled **VMware Virtual Machine (VM)** into **Intune** via **Microsoft Entra ID**  
 - Applied **password** and **compliance policies**  
 - Enforced **least privilege** with a separate local admin account  
 
-📄 [View Lab 2 – Intune Enrollment PDF](https://github.com/guyleonchen/Labs-1---6/blob/c09ac7773c787b297dc067a4709663b4542f80a9/Lab2-Intune-Enrollment-Policy-Evidence-Final.pdf)
+ [Technical Documentation (PDF](https://github.com/guyleonchen/Labs-1---6/blob/c09ac7773c787b297dc067a4709663b4542f80a9/Lab2-Intune-Enrollment-Policy-Evidence-Final.pdf)
 
-**Lab 3A – Intune Autopilot Deployment**  
+# Windows Autopilot Deployment
 - Configured **Windows Autopilot** for Out-of-Box Experience (OOBE)  
 - Enforced **Multi-factor authentication (MFA)** and **Windows Hello for Business** during setup  
 - Provisioned devices with **standard user accounts** by default
   
-📄 [View Lab 3A – Intune Autopilot PDF](https://github.com/guyleonchen/Labs-1---6/blob/c09ac7773c787b297dc067a4709663b4542f80a9/Lab3A-Cloud-DeviceMgmt-Autopilot-Intune-EntraID-Evidence-Final.pdf)
+[Technical Documentation (PDF)](https://github.com/guyleonchen/Labs-1---6/blob/c09ac7773c787b297dc067a4709663b4542f80a9/Lab3A-Cloud-DeviceMgmt-Autopilot-Intune-EntraID-Evidence-Final.pdf)
 
-**Lab 3B – Active Directory Domain Services (VMware)**  
+# Active Directory Domain Services Deployment
 - Installed and configured **Active Directory Domain Services (AD DS)** on a Windows Server **Virtual Machine (VM)**  
 - Created a new **forest** and `lab.local` **domain**  
 - Used **Active Directory Users and Computers (ADUC)**, **Group Policy**, and **Domain Name System (DNS)** for centralized management  
 
-📄 [View Lab 3B – AD DS Setup PDF](https://github.com/guyleonchen/Labs-1---6/blob/c09ac7773c787b297dc067a4709663b4542f80a9/Lab3B-Local-DeviceMgmt-VMware-ADDS-lab.local-Evidence-Final.pdf)
+[[Technical Documentation (PDF)](https://github.com/guyleonchen/Labs-1---6/blob/c09ac7773c787b297dc067a4709663b4542f80a9/Lab3B-Local-DeviceMgmt-VMware-ADDS-lab.local-Evidence-Final.pdf)
 
 **Lab 4 – Active Directory Lifecycle**   
 - Created **users** and **groups**, reset **passwords**, and tested **logins**  
