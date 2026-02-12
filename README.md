@@ -1,14 +1,6 @@
-# Hi, I’m Guy Cheneval! Welcome.
+# Hybrid Active Directory & Microsoft 365 Lab Environment
 
-IT support–focused professional with training in cybersecurity and IT fundamentals, supported by CompTIA Security+, Google Cybersecurity, and Cisco Junior Cybersecurity Analyst coursework. Hands-on experience across Windows environments, Microsoft 365, Active Directory, and basic networking through documented lab projects and real-world technical roles. Strong in troubleshooting, documentation, and structured problem-solving, with customer-facing experience developed in fast-paced operational environments.
-
----
-
-📂 Note: This repository contains all of my projects, works in progress, and learning journey.  
-For the curated, recruiter-ready portfolio, please visit: 
-📄 [View Portfolio](https://github.com/guyleonchen/it-helpdesk-cyber-portfolio)
-
-I've started creating structured, printable cheat sheets for key IT and cybersecurity setups — perfect for quick reference while building labs. [Click here to explore the Cheat Sheets repository](https://github.com/guyleonchen/Cheat-Sheets)
+This repository documents a Windows-based lab environment simulating small business IT operations. The environment integrates Active Directory Domain Services, Microsoft 365, Entra ID, Intune device management, Conditional Access, endpoint security policies, and structured troubleshooting workflows.
 
 ---
 
