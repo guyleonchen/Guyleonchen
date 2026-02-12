@@ -17,6 +17,17 @@ Active Directory • Microsoft 365 • Entra ID • Intune • Microsoft Defende
 
 ---
 
+# Endpoint Security – Microsoft Defender Firewall
+
+- Created Microsoft Defender Firewall baseline using Intune Endpoint Security
+- Enabled firewall protection across Domain, Private, and Public network profiles
+- Enforced secure defaults with inbound traffic blocked and outbound traffic allowed
+- Assigned firewall policy at the device level to ensure protection regardless of user sign-in
+- Verified deployment through Intune policy status and Windows Security on the endpoint
+
+[Technical Documentation (PDF)](PASTE-YOUR-LINK-HERE)
+
+
 # Intune Compliance & Conditional Access Enforcement
 
 - Created Windows 10/11 compliance policy requiring Microsoft Defender Antivirus to be enabled
