@@ -17,46 +17,14 @@ Active Directory • Microsoft 365 • Entra ID • Intune • Microsoft Defende
 
 ---
 
----
-  
-## Core Skills
-- Windows & Linux: OS management, troubleshooting, and system administration  
-- Microsoft 365, Intune, and Active Directory: Configuration, enrollment, and lifecycle management  
-- Networking: VPN, RDP, ping/tracert/ipconfig troubleshooting  
-- Security Practices: MFA, least privilege, compliance, phishing detection  
----
-
-## Projects 
-Hands-on labs covering **Windows**, **Linux**, **Microsoft 365**, **Intune**, **Active Directory**, **ticketing**, and **networking**. Focused on practical IT support tasks and cybersecurity practices such as **least privilege**, **Multi-factor authentication (MFA)**, **compliance**, and **audit logging**.  
-
-
-
-**Windows Fundamentals (1–3)** 
-Hands-on labs covering **account management**, **password security**, **User Account Control (UAC)**, and **firewall configuration**.  
-- User and password management  
-- Configured **User Account Control (UAC)**  
-- Applied **Windows security best practices**  
-- Managed **Windows Defender Firewall** (rules & profiles)  
-
-📄 [Windows Labs Summary PDF](https://github.com/guyleonchen/Labs-Tryhackme/blob/ae59476a2888135abea17f4ae6fbd254a13c6da3/Windows%20Fundamentals%201%20to%203%20Labs%20Summary.pdf)
-
-**Linux Fundamentals (1–3)** Hands-on labs covering **Command Line Interface (CLI) navigation**, **file permissions**, **logs**, **processes**, and **text/file operations**.  
-- Navigated **Command Line Interface (CLI)** and managed files/folders  
-- Controlled **file permissions and ownership** (`chmod`, `chown`)  
-- Inspected **system/auth logs** and managed **processes**  
-- Archived/compressed files and manipulated **text** (`grep`, `find`, `head`, `tail`)  
-
-📄 [Linux Labs Summary PDF](https://github.com/guyleonchen/Linux-Fundamentals/blob/85715df743a41f86fd37461e11b551f2f2afab1a/linux%20Fundamentals%20Labs%20Summary%201%20to%203%20Labs%20Summary.pdf)
-
-**Lab 1 – Microsoft 365 / Azure AD**  
+# Microsoft 365 & Entra ID Configuration
 - Created a new **tenant**, added **users**, and assigned **licenses**  
 - Configured **Multi-factor authentication (MFA)** with Microsoft Authenticator  
 - Applied **least privilege roles** (Helpdesk Admin instead of Global Admin)  
 
-  
-📄 [View Lab 1 – Microsoft 365 / Azure AD PDF](https://github.com/guyleonchen/Labs-1---6/blob/c09ac7773c787b297dc067a4709663b4542f80a9/Lab1-M365-Tenant-MFA-Evidence-Final.pdf)
+📄 [Technical Documentation (PDF)](https://github.com/guyleonchen/Labs-1---6/blob/c09ac7773c787b297dc067a4709663b4542f80a9/Lab1-M365-Tenant-MFA-Evidence-Final.pdf)
 
-**Lab 2 – Intune Enrollment**  
+# Intune Device Enrollment & Compliance
 - Enrolled **VMware Virtual Machine (VM)** into **Intune** via **Microsoft Entra ID**  
 - Applied **password** and **compliance policies**  
 - Enforced **least privilege** with a separate local admin account  
@@ -98,6 +66,24 @@ Hands-on labs covering **account management**, **password security**, **User Acc
 - Delivered **remote support** using **Remote Desktop Protocol (RDP)** and **TeamViewer**
   
 📄 [View Lab 6 – Networking & Remote Support PDF](https://github.com/guyleonchen/Labs-1---6/blob/22829c4f34d728f31d2db6d87e114f517004f34b/Lab%206%20%E2%80%93%20Networking%20%2B%20Remote%20Support.pdf)
+
+
+**Windows Fundamentals (1–3)** 
+Hands-on labs covering **account management**, **password security**, **User Account Control (UAC)**, and **firewall configuration**.  
+- User and password management  
+- Configured **User Account Control (UAC)**  
+- Applied **Windows security best practices**  
+- Managed **Windows Defender Firewall** (rules & profiles)  
+
+📄 [Windows Labs Summary PDF](https://github.com/guyleonchen/Labs-Tryhackme/blob/ae59476a2888135abea17f4ae6fbd254a13c6da3/Windows%20Fundamentals%201%20to%203%20Labs%20Summary.pdf)
+
+**Linux Fundamentals (1–3)** Hands-on labs covering **Command Line Interface (CLI) navigation**, **file permissions**, **logs**, **processes**, and **text/file operations**.  
+- Navigated **Command Line Interface (CLI)** and managed files/folders  
+- Controlled **file permissions and ownership** (`chmod`, `chown`)  
+- Inspected **system/auth logs** and managed **processes**  
+- Archived/compressed files and manipulated **text** (`grep`, `find`, `head`, `tail`)  
+
+📄 [Linux Labs Summary PDF](https://github.com/guyleonchen/Linux-Fundamentals/blob/85715df743a41f86fd37461e11b551f2f2afab1a/linux%20Fundamentals%20Labs%20Summary%201%20to%203%20Labs%20Summary.pdf)
 
 ---
 
