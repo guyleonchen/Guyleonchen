@@ -1,6 +1,6 @@
 # Hi, I’m Guy Cheneval! Welcome.
 
-Motivated and detail-oriented professional with training in cybersecurity and IT fundamentals, supported by certifications in Google Cybersecurity and CompTIA Security+, plus additional study through Cisco’s Junior Cybersecurity Analyst Pathway. Skilled in troubleshooting, documentation, and problem-solving, with strong experience in customer service and teamwork from previous roles. Actively developing a portfolio of hands-on IT and cybersecurity projects. 
+IT support–focused professional with training in cybersecurity and IT fundamentals, supported by CompTIA Security+, Google Cybersecurity, and Cisco Junior Cybersecurity Analyst coursework. Hands-on experience across Windows environments, Microsoft 365, Active Directory, and basic networking through documented lab projects and real-world technical roles. Strong in troubleshooting, documentation, and structured problem-solving, with customer-facing experience developed in fast-paced operational environments.
 
 ---
 
