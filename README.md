@@ -60,12 +60,12 @@ Active Directory • Microsoft 365 • Entra ID • Intune • Microsoft Defende
   
 [Technical Documentation (PDF)](https://github.com/guyleonchen/Labs-1---6/blob/22829c4f34d728f31d2db6d87e114f517004f34b/Lab5-Ticketing-Windows-Troubleshooting-Summary-Final.pdf)
 
-**Lab 6 – Networking & Remote Support**  
+# Networking & Remote Support
 - Ran `ping`, `tracert`, and `ipconfig` for **network troubleshooting**  
 - Simulated **Virtual Private Network (VPN) connectivity issues**  
 - Delivered **remote support** using **Remote Desktop Protocol (RDP)** and **TeamViewer**
   
-📄 [View Lab 6 – Networking & Remote Support PDF](https://github.com/guyleonchen/Labs-1---6/blob/22829c4f34d728f31d2db6d87e114f517004f34b/Lab%206%20%E2%80%93%20Networking%20%2B%20Remote%20Support.pdf)
+[Technical Documentation (PDF)](https://github.com/guyleonchen/Labs-1---6/blob/22829c4f34d728f31d2db6d87e114f517004f34b/Lab%206%20%E2%80%93%20Networking%20%2B%20Remote%20Support.pdf)
 
 
 **Windows Fundamentals (1–3)** 
