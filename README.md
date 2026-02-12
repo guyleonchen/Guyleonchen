@@ -17,6 +17,18 @@ Active Directory • Microsoft 365 • Entra ID • Intune • Microsoft Defende
 
 ---
 
+# Endpoint Security – Microsoft Defender Attack Surface Reduction (ASR)
+
+- Created Attack Surface Reduction (ASR) policy using Microsoft Intune Endpoint Security
+- Configured critical rules in Block mode to prevent credential theft and Office-based attack chains
+- Enabled LSASS credential protection and blocked Office applications from spawning child processes
+- Assigned policy to all managed devices for centralized enforcement
+- Verified rule deployment using PowerShell and Defender telemetry
+- Simulated credential dumping using Sysinternals ProcDump to confirm protection was active
+
+[Technical Documentation (PDF)](PASTE-YOUR-LINK)
+
+
 # Endpoint Security – Microsoft Defender Firewall
 
 - Created Microsoft Defender Firewall baseline using Intune Endpoint Security
