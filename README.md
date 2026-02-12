@@ -11,19 +11,11 @@ This repository documents a Windows-based lab environment simulating small busin
   
 ---
 
-## Education, Training & Certifications
-<p>
-  <img src="https://raw.githubusercontent.com/guyleonchen/PNG-certs/f24a65171e076010443138707ef8019803eafc47/Google-Cybersecurity-Certificate.png" width="220" />
-  <img src="https://raw.githubusercontent.com/guyleonchen/PNG-certs/407cb49396938b88b4d2843d93a57efa474d5dc4/cisco%20anyl%20path.png" width="220" />
-  <img src="https://raw.githubusercontent.com/guyleonchen/PNG-certs/e88e8d0d36b7ad69fd3ba94034ae900dc4caeda1/sec%20plus.png" width="220" />
-</p>
+# Technologies & Tools
 
+Active Directory • Microsoft 365 • Entra ID • Intune • Microsoft Defender • DNS • VMware • Networking • Jira
 
-### Cybersecurity & IT
-- Google Cybersecurity Professional Certificate – Completed 31 Dec 2024  
-- CompTIA Security+ (SY0-701) – Completed 21 Jul 2025 
-- Cisco Junior Cybersecurity Analyst Career Path – Completed 04 Aug 2025
-- Planning to pursue CCNA in 2026.
+---
 
 ---
   
@@ -108,6 +100,23 @@ Hands-on labs covering **account management**, **password security**, **User Acc
 📄 [View Lab 6 – Networking & Remote Support PDF](https://github.com/guyleonchen/Labs-1---6/blob/22829c4f34d728f31d2db6d87e114f517004f34b/Lab%206%20%E2%80%93%20Networking%20%2B%20Remote%20Support.pdf)
 
 ---
+
+
+
+## Education, Training & Certifications
+<p>
+  <img src="https://raw.githubusercontent.com/guyleonchen/PNG-certs/f24a65171e076010443138707ef8019803eafc47/Google-Cybersecurity-Certificate.png" width="220" />
+  <img src="https://raw.githubusercontent.com/guyleonchen/PNG-certs/407cb49396938b88b4d2843d93a57efa474d5dc4/cisco%20anyl%20path.png" width="220" />
+  <img src="https://raw.githubusercontent.com/guyleonchen/PNG-certs/e88e8d0d36b7ad69fd3ba94034ae900dc4caeda1/sec%20plus.png" width="220" />
+</p>
+
+
+### Cybersecurity & IT
+- Google Cybersecurity Professional Certificate – Completed 31 Dec 2024  
+- CompTIA Security+ (SY0-701) – Completed 21 Jul 2025 
+- Cisco Junior Cybersecurity Analyst Career Path – Completed 04 Aug 2025
+- Planning to pursue CCNA in 2026.
+
   
 ### AI Cybersecurity Projects 
  Projects built with AI-assisted tools to improve security awareness and phishing detection.
