@@ -26,7 +26,7 @@ Active Directory • Microsoft 365 • Entra ID • Intune • Microsoft Defende
 - Verified rule deployment using PowerShell and Defender telemetry
 - Simulated credential dumping using Sysinternals ProcDump to confirm protection was active
 
-[Technical Documentation (PDF)](PASTE-YOUR-LINK)
+[Technical Documentation (PDF)](https://github.com/guyleonchen/-Endpoint-Security-Microsoft-Defender-Attack-Surface-Reduction-ASR-/blob/e5247d50e3c12a9e8da63c479fef0ba5045b80e6/Lab09%20Intune%20Attack%20Surface%20Reduction.pdf)
 
 
 # Endpoint Security – Microsoft Defender Firewall
