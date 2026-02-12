@@ -43,22 +43,22 @@ Active Directory • Microsoft 365 • Entra ID • Intune • Microsoft Defende
 - Created a new **forest** and `lab.local` **domain**  
 - Used **Active Directory Users and Computers (ADUC)**, **Group Policy**, and **Domain Name System (DNS)** for centralized management  
 
-[[Technical Documentation (PDF)](https://github.com/guyleonchen/Labs-1---6/blob/c09ac7773c787b297dc067a4709663b4542f80a9/Lab3B-Local-DeviceMgmt-VMware-ADDS-lab.local-Evidence-Final.pdf)
+[Technical Documentation (PDF)](https://github.com/guyleonchen/Labs-1---6/blob/c09ac7773c787b297dc067a4709663b4542f80a9/Lab3B-Local-DeviceMgmt-VMware-ADDS-lab.local-Evidence-Final.pdf)
 
-**Lab 4 – Active Directory Lifecycle**   
+# Active Directory User Lifecycle & RBAC 
 - Created **users** and **groups**, reset **passwords**, and tested **logins**  
 - Applied **password complexity rules** with Group Policy  
 - Demonstrated **Role-Based Access Control (RBAC)** through AD accounts  
 
 
-📄 [View Lab 4 – Active Directory Lifecycle PDF](https://github.com/guyleonchen/Labs-1---6/blob/22829c4f34d728f31d2db6d87e114f517004f34b/Lab4-AD-Lifecycle-Summary-Final.pdf)
+[Technical Documentation (PDF)](https://github.com/guyleonchen/Labs-1---6/blob/22829c4f34d728f31d2db6d87e114f517004f34b/Lab4-AD-Lifecycle-Summary-Final.pdf)
 
-**Lab 5 – Ticketing & Troubleshooting**  
+# Ticketing & Incident Workflow
 - Created and closed **tickets** in Freshservice/Jira  
 - Documented **Knowledge Base (KB)** articles  
 - Simulated and resolved **Windows issues** with **Event Viewer**
   
-📄 [View Lab 5 – Ticketing & Troubleshooting PDF](https://github.com/guyleonchen/Labs-1---6/blob/22829c4f34d728f31d2db6d87e114f517004f34b/Lab5-Ticketing-Windows-Troubleshooting-Summary-Final.pdf)
+[Technical Documentation (PDF)](https://github.com/guyleonchen/Labs-1---6/blob/22829c4f34d728f31d2db6d87e114f517004f34b/Lab5-Ticketing-Windows-Troubleshooting-Summary-Final.pdf)
 
 **Lab 6 – Networking & Remote Support**  
 - Ran `ping`, `tracert`, and `ipconfig` for **network troubleshooting**  
