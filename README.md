@@ -25,7 +25,7 @@ Active Directory • Microsoft 365 • Entra ID • Intune • Microsoft Defende
 - Verified Conditional Access evaluation using report-only mode
 - Reviewed sign-in logs to confirm noncompliant devices would be blocked
 
-[Technical Documentation (PDF)](PASTE-YOUR-LINK-HERE)
+[Technical Documentation (PDF)](https://github.com/guyleonchen/Lab-7-Intune-Compliance-Conditional-Access-Enforcement/blob/daf397f6f2958cc17f375ef1aa85997aee7baa1f/Lab7-Intune%20-Compliance%20%26%20Conditional%20Access%20Enforcement.pdf)
 
 
 # Microsoft 365 & Entra ID Configuration
