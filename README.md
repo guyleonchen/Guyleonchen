@@ -25,7 +25,7 @@ Active Directory • Microsoft 365 • Entra ID • Intune • Microsoft Defende
 - Assigned firewall policy at the device level to ensure protection regardless of user sign-in
 - Verified deployment through Intune policy status and Windows Security on the endpoint
 
-[Technical Documentation (PDF)](PASTE-YOUR-LINK-HERE)
+[Technical Documentation (PDF)](https://github.com/guyleonchen/Endpoint-Security-Microsoft-Defender-Firewall/blob/d6ebfcbeba4fc85f1e54e3d0171965a37a32fbb2/Lab8.pdf)
 
 
 # Intune Compliance & Conditional Access Enforcement
