@@ -67,24 +67,6 @@ Active Directory • Microsoft 365 • Entra ID • Intune • Microsoft Defende
   
 [Technical Documentation (PDF)](https://github.com/guyleonchen/Labs-1---6/blob/22829c4f34d728f31d2db6d87e114f517004f34b/Lab%206%20%E2%80%93%20Networking%20%2B%20Remote%20Support.pdf)
 
-
-# Windows Fundamentals (1–3) 
-
-- User and password management  
-- Configured **User Account Control (UAC)**  
-- Applied **Windows security best practices**  
-- Managed **Windows Defender Firewall** (rules & profiles)  
-
-[Technical Documentation (PDF)](https://github.com/guyleonchen/Labs-Tryhackme/blob/ae59476a2888135abea17f4ae6fbd254a13c6da3/Windows%20Fundamentals%201%20to%203%20Labs%20Summary.pdf)
-
-# Linux Fundamentals (1–3)  
-- Navigated **Command Line Interface (CLI)** and managed files/folders  
-- Controlled **file permissions and ownership** (`chmod`, `chown`)  
-- Inspected **system/auth logs** and managed **processes**  
-- Archived/compressed files and manipulated **text** (`grep`, `find`, `head`, `tail`)  
-
-[Technical Documentation (PDF)](https://github.com/guyleonchen/Linux-Fundamentals/blob/85715df743a41f86fd37461e11b551f2f2afab1a/linux%20Fundamentals%20Labs%20Summary%201%20to%203%20Labs%20Summary.pdf)
-
 ---
 
 # Education, Training & Certifications
@@ -117,5 +99,25 @@ Active Directory • Microsoft 365 • Entra ID • Intune • Microsoft Defende
 - Flags impersonation, suspicious links, and risky attachments.
 
 [Try CyberGuardPro](https://cyber-guard-analyze.lovable.app/) / 📄 [View PDF](https://github.com/guyleonchen/CyberGuard-Pro/blob/ca1d6f4ea7d5014051a1ac4d52445f38a119c7a2/CyberGuardPro%20AI%20Portfolio.pdf)
+
+---
+
+# Windows Fundamentals (1–3) 
+
+- User and password management  
+- Configured **User Account Control (UAC)**  
+- Applied **Windows security best practices**  
+- Managed **Windows Defender Firewall** (rules & profiles)  
+
+[Technical Documentation (PDF)](https://github.com/guyleonchen/Labs-Tryhackme/blob/ae59476a2888135abea17f4ae6fbd254a13c6da3/Windows%20Fundamentals%201%20to%203%20Labs%20Summary.pdf)
+
+# Linux Fundamentals (1–3)  
+- Navigated **Command Line Interface (CLI)** and managed files/folders  
+- Controlled **file permissions and ownership** (`chmod`, `chown`)  
+- Inspected **system/auth logs** and managed **processes**  
+- Archived/compressed files and manipulated **text** (`grep`, `find`, `head`, `tail`)  
+
+[Technical Documentation (PDF)](https://github.com/guyleonchen/Linux-Fundamentals/blob/85715df743a41f86fd37461e11b551f2f2afab1a/linux%20Fundamentals%20Labs%20Summary%201%20to%203%20Labs%20Summary.pdf)
+
  
 
