@@ -17,6 +17,17 @@ Active Directory • Microsoft 365 • Entra ID • Intune • Microsoft Defende
 
 ---
 
+# Intune Compliance & Conditional Access Enforcement
+
+- Created Windows 10/11 compliance policy requiring Microsoft Defender Antivirus to be enabled
+- Integrated Intune compliance with Microsoft Entra Conditional Access
+- Simulated noncompliant device by disabling antivirus protection
+- Verified Conditional Access evaluation using report-only mode
+- Reviewed sign-in logs to confirm noncompliant devices would be blocked
+
+[Technical Documentation (PDF)](PASTE-YOUR-LINK-HERE)
+
+
 # Microsoft 365 & Entra ID Configuration
 - Created a new **tenant**, added **users**, and assigned **licenses**  
 - Configured **Multi-factor authentication (MFA)** with Microsoft Authenticator  
