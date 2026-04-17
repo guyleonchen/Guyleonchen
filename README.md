@@ -1,6 +1,10 @@
 # Hybrid Active Directory & Microsoft 365 Lab Environment
 
-This repository documents a Windows-based lab environment simulating small business IT operations. The environment integrates Active Directory Domain Services, Microsoft 365, Entra ID, Intune device management, Conditional Access, endpoint security policies, and structured troubleshooting workflows.
+Microsoft Security & Endpoint Management Lab Environment
+
+This repository documents a hands-on lab environment focused on Microsoft security and endpoint management. It includes practical implementations of Conditional Access (Zero Trust), Microsoft Defender Attack Surface Reduction (ASR), Intune device management, and Win32 application deployment.
+
+Each lab is built and validated through real-world testing scenarios, including attack simulation and log analysis, to demonstrate how security controls are enforced in an enterprise environment.
 
 ---
 
