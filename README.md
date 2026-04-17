@@ -17,6 +17,24 @@ Active Directory • Microsoft 365 • Entra ID • Intune • Microsoft Defende
 
 ---
 
+# Identity Security – Conditional Access (Location & Session Control)
+
+- Configured Conditional Access policies in Microsoft Entra ID to enforce Zero Trust access controls  
+- Defined a Named Location with Australia as a trusted region for location-based access control  
+- Created a policy to block sign-ins from all locations outside of Australia across all users and cloud apps  
+- Simulated external access using a VPN (US endpoint) to validate location-based restrictions  
+- Verified blocked access and policy evaluation using Microsoft Entra sign-in logs  
+- Correlated VPN IP address with Entra logs to confirm accurate detection of external sign-in attempts  
+
+- Implemented session control policy using sign-in frequency to limit session duration  
+- Configured 1-hour reauthentication requirement across supported cloud applications  
+- Enforced MFA as a grant control to strengthen authentication security  
+- Validated session expiry by confirming reauthentication was required after the defined time period  
+- Confirmed session enforcement using login timestamps and repeated authentication prompts
+
+[Technical Documentation (PDF)](https://github.com/guyleonchen/Conditional-Access-Location-Session-Control/blob/7c3f2001dc8acf174eb748fbfbdca3f3f37476fb/Lab11%20Conditional%20Access%20(Location%20Control%20and%20Session%20Control).pdf)
+
+
 # Endpoint Management – Win32 Application Deployment (Microsoft Intune)
 
 - Packaged Google Chrome Enterprise installer into a .intunewin file using Microsoft Win32 Content Prep Tool  
