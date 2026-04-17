@@ -17,6 +17,18 @@ Active Directory • Microsoft 365 • Entra ID • Intune • Microsoft Defende
 
 ---
 
+# Endpoint Management – Win32 Application Deployment (Microsoft Intune)
+
+- Packaged Google Chrome Enterprise installer into a .intunewin file using Microsoft Win32 Content Prep Tool  
+- Uploaded packaged application to Microsoft Intune and configured application metadata  
+- Configured silent installation using msiexec for automated deployment  
+- Defined device requirements including x64 architecture and minimum Windows 10 version  
+- Implemented MSI-based detection rules using product code to validate installation status  
+- Assigned application as Required to all managed devices for centralized deployment  
+- Verified successful deployment using Intune reporting and endpoint validation
+
+[Technical Documentation (PDF)](https://github.com/guyleonchen/Lab-10-Deploying-a-Win32-Application-Google-Chrome-Using-Microsoft-Intune-/blob/82fcec644f147670a92d0192bf138451dfc72add/Lab10%20Deploying%20a%20Win32%20Application%20(Google%20Chrome)%20Using%20Microsoft%20Intune.pdf)
+
 # Endpoint Security – Microsoft Defender Attack Surface Reduction (ASR)
 
 - Created Attack Surface Reduction (ASR) policy using Microsoft Intune Endpoint Security
