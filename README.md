@@ -1,4 +1,4 @@
-# Hybrid Active Directory & Microsoft 365 Lab Environment
+# Microsoft Security Lab Environment (Entra ID, Intune, Defender)
 
 Microsoft Security & Endpoint Management Lab Environment
 
