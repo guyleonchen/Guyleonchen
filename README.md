@@ -15,12 +15,6 @@ Each lab is built and validated through real-world testing scenarios, including 
   
 ---
 
-# Technologies & Tools
-
-Active Directory • Microsoft 365 • Entra ID • Intune • Microsoft Defender • DNS • VMware • Networking • Jira
-
----
-
 # Identity Security – Conditional Access (Location & Session Control)
 
 - Configured Conditional Access policies in Microsoft Entra ID to enforce Zero Trust access controls  
