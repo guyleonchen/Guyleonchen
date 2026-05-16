@@ -11,7 +11,7 @@ Each lab is built and validated through real-world testing scenarios, including 
 -  Contact: guyleonchen@gmail.com
   
 ---
-# Zero Trust BYOD (MAM + Conditional Access Enforcement)
+#  Microsoft Entra PIM Just-in-Time Administration
 - Configured accounts to become eligible for Global Administrator access instead of permanently holding active administrative privileges
 -  Configured MFA and required users to provide a reason before the administrative access request could be approved
 -  Configured approval workflows before administrative access could be activated
