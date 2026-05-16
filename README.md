@@ -12,6 +12,18 @@ Each lab is built and validated through real-world testing scenarios, including 
   
 ---
 # Zero Trust BYOD (MAM + Conditional Access Enforcement)
+- Configured accounts to become eligible for Global Administrator access instead of permanently holding active administrative privileges
+-  Configured MFA and required users to provide a reason before the administrative access request could be approved
+-  Configured approval workflows before administrative access could be activated
+-  Implemented time-bound privileged access with automatic expiry
+-  Configured notifications to alert approvers and administrators whenever privileged access were requested or activated
+-  Validated the full activation lifecycle from request, approval, activation, and automatic privilege removal
+-  Confirmed elevated access by successfully performing administrative actions during the approved activation window
+-  Verified permissions were automatically revoked after the activation session expired
+
+[Technical Documentation (PDF)]()
+
+# Zero Trust BYOD (MAM + Conditional Access Enforcement)
 - Enforced App Protection Policies (MAM) for Outlook
 - Required app protection via Conditional Access for Office 365 access
 - Blocked access from unmanaged apps and browsers (Safari test confirmed)
