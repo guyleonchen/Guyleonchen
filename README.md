@@ -1,7 +1,6 @@
-# Microsoft Security Lab Environment (Entra ID, Intune, Defender)
+# Microsoft Security & Endpoint Management Lab Environment
 
-Microsoft Security & Endpoint Management Lab Environment
-Each lab is built and validated through real-world testing scenarios, including attack simulation and log analysis, to demonstrate how security controls are enforced in an enterprise environment.
+Hands-on Microsoft security and endpoint management labs focused on real-world enterprise administration, identity, compliance, and attack prevention scenarios. Each lab is built, tested, and validated through practical implementation, policy enforcement, attack simulation, and log analysis to demonstrate how security controls operate within modern enterprise environments.
 
 ---
 
