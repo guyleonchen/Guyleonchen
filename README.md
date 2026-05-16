@@ -1,9 +1,6 @@
 # Microsoft Security Lab Environment (Entra ID, Intune, Defender)
 
 Microsoft Security & Endpoint Management Lab Environment
-
-This repository documents a hands-on lab environment focused on Microsoft security and endpoint management. It includes practical implementations of Conditional Access (Zero Trust), Microsoft Defender Attack Surface Reduction (ASR), Intune device management, and Win32 application deployment.
-
 Each lab is built and validated through real-world testing scenarios, including attack simulation and log analysis, to demonstrate how security controls are enforced in an enterprise environment.
 
 ---
