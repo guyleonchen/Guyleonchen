@@ -20,7 +20,7 @@ Each lab is built and validated through real-world testing scenarios, including 
 - Enforced PIN access before accessing organisational data
 - Verified all controls through real testing on an iPhone
 
-[Technical Documentation (PDF)]()
+[Technical Documentation (PDF)](Lab12 Zero Trust BYOD (https://github.com/guyleonchen/Zero-Trust-BYOD-MAM-Conditional-Access-Enforcement-/blob/83cc92c97b2558eff910cba3d5781ae110ce9fe1/Lab12%20Zero%20Trust%20BYOD%20(MAM%20%2B%20Conditional%20Access%20Enforcement).pdf)
 
 
 # Identity Security – Conditional Access (Location & Session Control)
