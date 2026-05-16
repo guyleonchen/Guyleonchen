@@ -11,6 +11,17 @@ Each lab is built and validated through real-world testing scenarios, including 
 -  Contact: guyleonchen@gmail.com
   
 ---
+# Zero Trust BYOD (MAM + Conditional Access Enforcement)
+- Enforced App Protection Policies (MAM) for Outlook
+- Required app protection via Conditional Access for Office 365 access
+- Blocked access from unmanaged apps and browsers (Safari test confirmed)
+- Restricted copy/paste and data sharing outside managed apps
+- Prevented data transfer to unmanaged apps (camera/gallery blocked)
+- Enforced PIN access before accessing organisational data
+- Verified all controls through real testing on an iPhone
+
+[Technical Documentation (PDF)]()
+
 
 # Identity Security – Conditional Access (Location & Session Control)
 
@@ -20,7 +31,6 @@ Each lab is built and validated through real-world testing scenarios, including 
 - Simulated external access using a VPN (US endpoint) to validate location-based restrictions  
 - Verified blocked access and policy evaluation using Microsoft Entra sign-in logs  
 - Correlated VPN IP address with Entra logs to confirm accurate detection of external sign-in attempts  
-
 - Implemented session control policy using sign-in frequency to limit session duration  
 - Configured 1-hour reauthentication requirement across supported cloud applications  
 - Enforced MFA as a grant control to strengthen authentication security  
