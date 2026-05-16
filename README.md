@@ -13,15 +13,15 @@ Each lab is built and validated through real-world testing scenarios, including 
 ---
 #  Microsoft Entra PIM Just-in-Time Administration
 - Configured accounts to become eligible for Global Administrator access instead of permanently holding active administrative privileges
--  Configured MFA and required users to provide a reason before the administrative access request could be approved
--  Configured approval workflows before administrative access could be activated
--  Implemented time-bound privileged access with automatic expiry
--  Configured notifications to alert approvers and administrators whenever privileged access were requested or activated
--  Validated the full activation lifecycle from request, approval, activation, and automatic privilege removal
--  Confirmed elevated access by successfully performing administrative actions during the approved activation window
--  Verified permissions were automatically revoked after the activation session expired
+- Configured MFA and required users to provide a reason before the administrative access request could be approved
+- Configured approval workflows before administrative access could be activated
+- Implemented time-bound privileged access with automatic expiry
+- Configured notifications to alert approvers and administrators whenever privileged access were requested or activated
+- Validated the full activation lifecycle from request, approval, activation, and automatic privilege removal
+- Confirmed elevated access by successfully performing administrative actions during the approved activation window
+- Verified permissions were automatically revoked after the activation session expired
 
-[Technical Documentation (PDF)]()
+[Technical Documentation (PDF)](https://github.com/guyleonchen/-Microsoft-Entra-PIM-Just-in-Time-Administration/blob/77b8cd3ea82bcefc5ec538f4cce5a28b7176de55/Lab%2013%20-%20Microsoft%20Entra%20PIM%20Just-in-Time%20Administration..pdf)
 
 # Zero Trust BYOD (MAM + Conditional Access Enforcement)
 - Enforced App Protection Policies (MAM) for Outlook
