@@ -23,6 +23,14 @@ Each lab is structured around a practical scenario, the security or administrati
 ### Scenario:
 A support administrator may need local administrator access to complete privileged tasks, but granting permanent access or allowing that access across every device increases risk. This lab addressed how to provide temporary local admin rights only when approved and only on authorised managed endpoints.
 
+### Architecture Overview
+
+<p align="center">
+  <img src="https://github.com/guyleonchen/Architecture-Temporary-Local-Administrator-Access-to-Approved-Devices-Using-Entra-PIM-and-Intune/blob/1fa3fb2eb5f0508927b4098d86294f085ce9f43c/Temporary%20Local%20Administrator%20Access%20to%20Approved%20Devices%20Using%20Entra%20PIM%20and%20Intune.png?raw=true"
+       alt="Architecture diagram showing temporary local administrator access restricted to approved devices using Microsoft Entra PIM and Intune Account Protection"
+       width="850">
+</p>
+
 ### What I Implemented
 - Created an Endpoint-Admins security group for users who may require temporary local administrator access
 - Created an Approved-Admin-Devices group to control which managed devices could receive local admin rights
