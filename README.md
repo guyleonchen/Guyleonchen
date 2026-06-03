@@ -4,6 +4,31 @@ Hands-on Microsoft security and endpoint management labs focused on real-world e
 
 Each lab is structured around a practical scenario, the security or administration problem being addressed, the controls I implemented, the validation testing I performed and the final outcome. The labs demonstrate how Microsoft security and endpoint management controls can be configured, tested and verified within a modern enterprise-style environment.
 
+## Portfolio Focus
+
+| Identity & Privileged Access | Endpoint Management | Endpoint Security | Administration Fundamentals |
+|---|---|---|---|
+| Entra PIM, MFA, Conditional Access | Intune, Autopilot, Compliance, MAM | Defender ASR, Firewall, Attack Validation | Active Directory, Ticketing, Networking |
+
+## Labs
+
+### Identity & Privileged Access
+- [Restricting Temporary Local Administrator Access to Approved Devices Using Entra PIM and Intune](#restricting-temporary-local-administrator-access-to-approved-devices-using-entra-pim-and-intune)
+- [Replacing Permanent Global Administrator Access with Just-in-Time Privilege Elevation Using Entra PIM](#replacing-permanent-global-administrator-access-with-just-in-time-privilege-elevation-using-entra-pim)
+
+### Device Access & Endpoint Management
+- [Protecting Organisational Data on Personal Mobile Devices Using Intune MAM and Conditional Access](#protecting-organisational-data-on-personal-mobile-devices-using-intune-mam-and-conditional-access)
+- [Provisioning a Corporate Windows Device Through OOBE Using Windows Autopilot](#provisioning-a-corporate-windows-device-through-oobe-using-windows-autopilot)
+- [Deploying Required Business Applications Using Microsoft Intune Win32 App Deployment](#deploying-required-business-applications-using-microsoft-intune-win32-app-deployment)
+
+### Endpoint Security
+- [Blocking Credential Dumping and Office-Based Attack Paths Using Microsoft Defender ASR Rules](#blocking-credential-dumping-and-office-based-attack-paths-using-microsoft-defender-asr-rules)
+- [Enforcing Consistent Endpoint Firewall Protection Using Microsoft Intune](#enforcing-consistent-endpoint-firewall-protection-using-microsoft-intune)
+
+### IT Administration Foundations
+- [Building a Centralised Windows Domain Environment with Active Directory Domain Services](#building-a-centralised-windows-domain-environment-with-active-directory-domain-services)
+- [Managing User Access and Password Controls Through Active Directory](#managing-user-access-and-password-controls-through-active-directory)
+
 
 ---
 
