@@ -1,6 +1,9 @@
 # Microsoft Security & Endpoint Management Lab Environment
 
-Hands-on Microsoft security and endpoint management labs focused on real-world enterprise administration, identity, compliance, and attack prevention scenarios. Each lab is built, tested, and validated through practical implementation, policy enforcement, attack simulation, and log analysis to demonstrate how security controls operate within modern enterprise environments.
+Hands-on Microsoft security and endpoint management labs focused on real-world enterprise administration, identity, compliance and attack prevention scenarios.
+
+Each lab is structured around a practical scenario, the security or administration problem being addressed, the controls I implemented, the validation testing I performed and the final outcome. The labs demonstrate how Microsoft security and endpoint management controls can be configured, tested and verified within a modern enterprise-style environment.
+
 
 ---
 
