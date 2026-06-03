@@ -36,10 +36,10 @@ A support administrator may need local administrator access to complete privileg
 
 Validated that temporary local administrator access could be activated on an approved device while remaining blocked on a non-approved device, demonstrating least privilege and restricting the lateral movement of elevated access across unauthorised endpoints.
 
-
-
 ### Technical Documentation
 [View Technical Documentation PDF)](https://github.com/guyleonchen/Zero-Trust-Local-Admin-Access-with-Entra-PIM-and-Intune-Account-Protection/blob/af973dac41b409924c32780d46ccf89b3eac1516/Lab%2014%20%E2%80%93%20Zero%20Trust%20Local%20Admin%20Access%20with%20Entra%20PIM%20and%20Intune%20Account%20Protection.pdf)
+
+---
 
 #  Microsoft Entra PIM Just-in-Time Administration
 - Configured accounts to become eligible for Global Administrator access instead of permanently holding active administrative privileges
