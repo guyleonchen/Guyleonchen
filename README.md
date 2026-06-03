@@ -10,6 +10,20 @@ Hands-on Microsoft security and endpoint management labs focused on real-world e
 -  Contact: guyleonchen@gmail.com
   
 ---
+# Zero Trust Local Admin Access with Entra PIM and Intune Account Protection 
+- Created an Endpoint-Admins security group for users who may require temporary local administrator access
+- Created an Approved-Admin-Devices group to control which managed devices could receive local admin rights
+- Configured an Intune Account Protection policy to add active members of the Endpoint-Admins group to the local Administrators group
+- Scoped the policy so local admin rights only applied to devices in the Approved-Admin-Devices group
+- Configured Microsoft Entra PIM to make admin group membership eligible rather than permanently active
+- Required MFA, justification, and approval before temporary admin access could be activated
+- Configured a one-hour activation limit to ensure elevated access automatically expired
+- Confirmed the user could not perform an administrative task before activation
+- Confirmed the user could successfully perform an administrative task on an approved device after approval and activation
+- Tested the same activated account on a non-approved device and confirmed the administrative action was still blocked
+
+[Technical Documentation (PDF)](https://github.com/guyleonchen/-Microsoft-Entra-PIM-Just-in-Time-Administration/blob/77b8cd3ea82bcefc5ec538f4cce5a28b7176de55/Lab%2013%20-%20Microsoft%20Entra%20PIM%20Just-in-Time%20Administration..pdf)
+
 #  Microsoft Entra PIM Just-in-Time Administration
 - Configured accounts to become eligible for Global Administrator access instead of permanently holding active administrative privileges
 - Configured MFA and required users to provide a reason before the administrative access request could be approved
